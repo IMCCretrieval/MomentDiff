@@ -21,8 +21,6 @@ Pandeng Li<sup>1</sup>, Chen-Wei Xie<sup>2</sup>, Hongtao Xie<sup>1</sup>, Limin
 
 VGG features and labels: Download [Charades-STA-VGG](https://github.com/TencentARC/UMT),
 
-C3D features: Download [Charades-STA-C3D](https://github.com/26hzhang/VSLNet/tree/master/prepare),
-
 SF+C features: We followed Moment-DETR to use [Charades-STA-SF+C](https://github.com/linjieli222/HERO_Video_Feature_Extractor). 
 
 
