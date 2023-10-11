@@ -1,4 +1,4 @@
-# MomentDiff: Generative Video Moment Retrieval from Random to Real 
+# MomentDiff: Generative Video Moment Retrieval from Random to Real --NeurIPS 2023
 by 
 Pandeng Li<sup>1</sup>, Chen-Wei Xie<sup>2</sup>, Hongtao Xie<sup>1</sup>, Liming Zhao<sup>2</sup>, Lei Zhang<sup>1</sup>, Yun Zheng<sup>2</sup>
 , Deli Zhao<sup>2</sup>, Yongdong Zhang<sup>1</sup>
@@ -9,8 +9,6 @@ Pandeng Li<sup>1</sup>, Chen-Wei Xie<sup>2</sup>, Hongtao Xie<sup>1</sup>, Limin
 
 
 [[Arxiv](https://arxiv.org/abs/2307.02869)]
-
-The code will be released in October 2023.
 
 ----------
 
@@ -26,7 +24,7 @@ VGG features and labels: Download [Charades-STA-VGG](https://github.com/TencentA
 SF+C features: We followed Moment-DETR to use [Charades-STA-SF+C](https://github.com/linjieli222/HERO_Video_Feature_Extractor). 
 
 
-<b>QVHighlights</b> : Download official feature files for QVHighlights dataset from Moment-DETR. 
+<b>QVHighlights</b> : Download official feature files for QVHighlights dataset from [Moment-DETR](https://github.com/jayleicn/moment_detr). 
 
 SF+C features: Download [moment_detr_features.tar.gz](https://drive.google.com/file/d/1Hiln02F1NEpoW8-iPZurRyi-47-W2_B9/view?usp=sharing).
 ```
@@ -68,7 +66,7 @@ bash momentdiff/scripts/train_charades_sf.sh
 Training on two anti-bias datasets can be executed by running the shell below:
 ```
 bash momentdiff/scripts/train_anti_charades_len.sh 
-bash momentdiff/scripts/train_anti_charades_Mom.sh 
+bash momentdiff/scripts/train_anti_charades_mom.sh 
 ```
 
 Training on Charades-CD and ActivityNet-CD can be executed by running the shell below:
@@ -81,6 +79,6 @@ bash momentdiff/scripts/train_anet_CD.sh
 
 
 ## LICENSE
-The annotation files and many parts of the implementations are borrowed Moment-DETR.
+The annotation files and many parts of the implementations are borrowed [Moment-DETR](https://github.com/jayleicn/moment_detr) and [QD-DETR](https://github.com/wjun0830/QD-DETR).
 Following, our codes are also under [MIT](https://opensource.org/licenses/MIT) license.
  
