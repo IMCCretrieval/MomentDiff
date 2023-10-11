@@ -1,0 +1,823 @@
+{"qid": 14446, "query": "person sits on the floor", "duration": 35.4375, "vid": "WXXYY", "relevant_windows": [[28.0, 36.0]]}
+{"qid": 14447, "query": "person begins playing with their phone", "duration": 35.4375, "vid": "WXXYY", "relevant_windows": [[7.0, 19.3]]}
+{"qid": 14448, "query": "person plays on his phone", "duration": 35.4375, "vid": "WXXYY", "relevant_windows": [[7.0, 19.3]]}
+{"qid": 14449, "query": "person begins to play on his phone", "duration": 35.4375, "vid": "WXXYY", "relevant_windows": [[7.0, 19.3]]}
+{"qid": 14450, "query": "person closes the door", "duration": 35.4375, "vid": "WXXYY", "relevant_windows": [[4.4, 11.4]]}
+{"qid": 14451, "query": "person fixes the doorknob", "duration": 35.4375, "vid": "WXXYY", "relevant_windows": [[28.4, 36.0]]}
+{"qid": 14452, "query": "person start fixing the doorknob", "duration": 35.4375, "vid": "WXXYY", "relevant_windows": [[28.4, 36.0]]}
+{"qid": 14453, "query": "person opened the refrigerator", "duration": 32.1875, "vid": "U3T5A", "relevant_windows": [[3.3, 9.5]]}
+{"qid": 14454, "query": "the person puts the towel on the table", "duration": 24.8125, "vid": "B8PQL", "relevant_windows": [[0.7, 5.9]]}
+{"qid": 14455, "query": "one person with hair in a towel undresses", "duration": 29.625, "vid": "0WHOH", "relevant_windows": [[0.0, 11.0]]}
+{"qid": 14456, "query": "person sit down in a chair", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[39.6, 44.0]]}
+{"qid": 14457, "query": "person they sit down in a chair", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[39.6, 44.0]]}
+{"qid": 14458, "query": "a person opens the front door that leads outside", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[0.0, 4.0]]}
+{"qid": 14459, "query": "a person opens the door", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[0.0, 4.0]]}
+{"qid": 14460, "query": "person opening a door", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[0.0, 4.0]]}
+{"qid": 14461, "query": "the person closes the door", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[15.8, 24.3]]}
+{"qid": 14462, "query": "person closes the door", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[15.8, 24.3]]}
+{"qid": 14463, "query": "the person sits down in a chair", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[39.6, 44.0]]}
+{"qid": 14464, "query": "person eventually sitting in a chair", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[39.6, 44.0]]}
+{"qid": 14465, "query": "a person opens the door outside", "duration": 43.4375, "vid": "4BEZX", "relevant_windows": [[0.0, 4.0]]}
+{"qid": 14466, "query": "a person is smiling in the mirror of their bathroom", "duration": 23.5, "vid": "1ZWPP", "relevant_windows": [[2.6, 7.7]]}
+{"qid": 14467, "query": "person opens the door", "duration": 23.5, "vid": "1ZWPP", "relevant_windows": [[13.0, 19.4]]}
+{"qid": 14468, "query": "person they open the door", "duration": 23.5, "vid": "1ZWPP", "relevant_windows": [[13.0, 19.4]]}
+{"qid": 14469, "query": "person reading a book", "duration": 33.25, "vid": "1IPYC", "relevant_windows": [[0.0, 8.0]]}
+{"qid": 14470, "query": "person closing the front door", "duration": 32.0, "vid": "VJ0LT", "relevant_windows": [[23.1, 33.0]]}
+{"qid": 14471, "query": "person pours it into a glass", "duration": 32.0, "vid": "VJ0LT", "relevant_windows": [[2.5, 13.4]]}
+{"qid": 14472, "query": "person pours a glass of soda", "duration": 32.0, "vid": "VJ0LT", "relevant_windows": [[2.5, 13.4]]}
+{"qid": 14473, "query": "the person drinks the coke from the glass", "duration": 32.0, "vid": "VJ0LT", "relevant_windows": [[12.9, 21.4]]}
+{"qid": 14474, "query": "person closes a door outside", "duration": 32.0, "vid": "VJ0LT", "relevant_windows": [[23.1, 33.0]]}
+{"qid": 14475, "query": "a person is laughing in front of the refrigerator", "duration": 30.625, "vid": "ZFT06", "relevant_windows": [[21.5, 30.0]]}
+{"qid": 14476, "query": "person opens the door", "duration": 30.625, "vid": "ZFT06", "relevant_windows": [[8.6, 14.8]]}
+{"qid": 14477, "query": "person takes a glass out from the refrigerator", "duration": 30.625, "vid": "ZFT06", "relevant_windows": [[18.9, 25.7]]}
+{"qid": 14478, "query": "person they open a cabinet", "duration": 23.9375, "vid": "N0N4I", "relevant_windows": [[5.4, 12.5]]}
+{"qid": 14479, "query": "a person is cooking on the stove", "duration": 23.9375, "vid": "N0N4I", "relevant_windows": [[0.0, 8.7]]}
+{"qid": 14480, "query": "person take out some medicine", "duration": 23.9375, "vid": "N0N4I", "relevant_windows": [[9.6, 19.4]]}
+{"qid": 14481, "query": "a person sits in a chair", "duration": 31.75, "vid": "HC62A", "relevant_windows": [[0.0, 4.9]]}
+{"qid": 14482, "query": "the person takes a bag of food from the window", "duration": 31.75, "vid": "HC62A", "relevant_windows": [[5.5, 12.2]]}
+{"qid": 14483, "query": "person takes a piece of food out", "duration": 31.75, "vid": "HC62A", "relevant_windows": [[5.5, 12.2]]}
+{"qid": 14484, "query": "a person sits down in a chair to watch television", "duration": 31.75, "vid": "HC62A", "relevant_windows": [[0.0, 4.9]]}
+{"qid": 14485, "query": "the person opens a bag of groceries", "duration": 31.75, "vid": "HC62A", "relevant_windows": [[8.3, 14.6]]}
+{"qid": 14486, "query": "person they close the laptop", "duration": 31.0625, "vid": "P2HZG", "relevant_windows": [[4.0, 10.2]]}
+{"qid": 14487, "query": "person an opens a cabinet", "duration": 31.0625, "vid": "P2HZG", "relevant_windows": [[13.0, 18.4]]}
+{"qid": 14488, "query": "a person is sitting at the dining room table", "duration": 31.0625, "vid": "P2HZG", "relevant_windows": [[0.0, 9.3]]}
+{"qid": 14489, "query": "another person runs out the room", "duration": 30.5, "vid": "HWYTN", "relevant_windows": [[0.0, 4.0]]}
+{"qid": 14490, "query": "another man running past", "duration": 30.5, "vid": "HWYTN", "relevant_windows": [[0.0, 4.0]]}
+{"qid": 14491, "query": "another person is running in shoes", "duration": 30.5, "vid": "HWYTN", "relevant_windows": [[0.0, 4.0]]}
+{"qid": 14492, "query": "person undressing in front of their mirror glass", "duration": 32.375, "vid": "SXI64", "relevant_windows": [[5.6, 13.5]]}
+{"qid": 14493, "query": "the person puts the bowls on the table", "duration": 27.0, "vid": "MJYTA", "relevant_windows": [[8.6, 14.9]]}
+{"qid": 14494, "query": "a person is throwing clothes down the stairs", "duration": 32.875, "vid": "61WBK", "relevant_windows": [[0.0, 4.3]]}
+{"qid": 14495, "query": "one person undresses in front of a wardrobe", "duration": 30.6875, "vid": "BDY1V", "relevant_windows": [[3.7, 19.0]]}
+{"qid": 14496, "query": "person takes a pillow from the closet", "duration": 30.6875, "vid": "BDY1V", "relevant_windows": [[20.3, 26.3]]}
+{"qid": 14497, "query": "person snuggles the pillow", "duration": 30.6875, "vid": "BDY1V", "relevant_windows": [[25.0, 32.0]]}
+{"qid": 14498, "query": "person close the box", "duration": 34.0, "vid": "ZIWZH", "relevant_windows": [[0.0, 5.2]]}
+{"qid": 14499, "query": "a person is sitting on a chair opening a box", "duration": 34.0, "vid": "ZIWZH", "relevant_windows": [[1.6, 13.5]]}
+{"qid": 14500, "query": "a person puts a box on the counter", "duration": 30.8125, "vid": "I0588", "relevant_windows": [[13.0, 21.5]]}
+{"qid": 14501, "query": "a person puts a box into the cabinet pantry", "duration": 30.8125, "vid": "I0588", "relevant_windows": [[13.0, 21.5]]}
+{"qid": 14502, "query": "person put it on a shelf in a cabinet", "duration": 30.8125, "vid": "I0588", "relevant_windows": [[13.0, 21.6]]}
+{"qid": 14503, "query": "person pours water into a cup", "duration": 30.875, "vid": "GXVX8", "relevant_windows": [[6.5, 12.8]]}
+{"qid": 14504, "query": "person holding a phone to their ear", "duration": 31.5625, "vid": "72VJD", "relevant_windows": [[0.0, 8.3]]}
+{"qid": 14505, "query": "another person holds a camera", "duration": 31.0625, "vid": "8Y4YD", "relevant_windows": [[18.0, 32.0]]}
+{"qid": 14506, "query": "a person reads a book", "duration": 15.75, "vid": "5C4EK", "relevant_windows": [[0.0, 6.2]]}
+{"qid": 14507, "query": "a person opens the door to the bedroom", "duration": 31.125, "vid": "65UVU", "relevant_windows": [[0.0, 3.2]]}
+{"qid": 14508, "query": "person takes another box from the same shelf", "duration": 31.125, "vid": "65UVU", "relevant_windows": [[9.6, 16.1]]}
+{"qid": 14509, "query": "a person puts a container on a top shelf", "duration": 31.125, "vid": "65UVU", "relevant_windows": [[4.2, 16.0]]}
+{"qid": 14510, "query": "a person in a hall smiling", "duration": 33.375, "vid": "J06RS", "relevant_windows": [[0.0, 11.0]]}
+{"qid": 14511, "query": "the person is smiling", "duration": 33.375, "vid": "J06RS", "relevant_windows": [[0.0, 11.0]]}
+{"qid": 14512, "query": "person laughing bends over", "duration": 33.375, "vid": "J06RS", "relevant_windows": [[2.7, 9.0]]}
+{"qid": 14513, "query": "a person is laughing in the doorway", "duration": 33.375, "vid": "J06RS", "relevant_windows": [[2.7, 9.0]]}
+{"qid": 14514, "query": "person they wash the dish in the sink", "duration": 33.9375, "vid": "VRMNI", "relevant_windows": [[16.4, 32.8]]}
+{"qid": 14515, "query": "person opening the door", "duration": 33.9375, "vid": "VRMNI", "relevant_windows": [[0.0, 4.2]]}
+{"qid": 14516, "query": "person starts putting the dishes on the shelf", "duration": 33.9375, "vid": "VRMNI", "relevant_windows": [[29.8, 35.0]]}
+{"qid": 14517, "query": "person they turn on the light in the room", "duration": 33.9375, "vid": "VRMNI", "relevant_windows": [[5.6, 11.0]]}
+{"qid": 14518, "query": "the person turns on the light", "duration": 33.9375, "vid": "VRMNI", "relevant_windows": [[5.6, 11.0]]}
+{"qid": 14519, "query": "person brings dishes to the sink washes them", "duration": 33.9375, "vid": "VRMNI", "relevant_windows": [[16.4, 32.8]]}
+{"qid": 14520, "query": "a person enters through a doorway turns on a light", "duration": 33.9375, "vid": "VRMNI", "relevant_windows": [[5.6, 11.0]]}
+{"qid": 14521, "query": "the person switches off the light when exiting the room", "duration": 29.625, "vid": "UGJSB", "relevant_windows": [[20.3, 27.4]]}
+{"qid": 14522, "query": "person takes the jacket out of the box", "duration": 36.9375, "vid": "OOKN5", "relevant_windows": [[16.6, 27.8]]}
+{"qid": 14523, "query": "person begin dressing", "duration": 36.9375, "vid": "OOKN5", "relevant_windows": [[22.8, 38.0]]}
+{"qid": 14524, "query": "person closes the door behind them", "duration": 30.4375, "vid": "IUW9N", "relevant_windows": [[0.1, 5.9]]}
+{"qid": 14525, "query": "person closing the door behind them", "duration": 30.4375, "vid": "IUW9N", "relevant_windows": [[0.1, 5.9]]}
+{"qid": 14526, "query": "one person opens a cabinet", "duration": 35.5, "vid": "RM1FR", "relevant_windows": [[3.2, 10.7]]}
+{"qid": 14527, "query": "person opens a couple cabinets", "duration": 35.5, "vid": "RM1FR", "relevant_windows": [[3.2, 10.7]]}
+{"qid": 14528, "query": "person closes the cabinets", "duration": 35.5, "vid": "RM1FR", "relevant_windows": [[14.2, 20.1]]}
+{"qid": 14529, "query": "person throws their shoes on the ground", "duration": 36.25, "vid": "CFWP7", "relevant_windows": [[31.7, 37.0]]}
+{"qid": 14530, "query": "a person is smiling", "duration": 31.25, "vid": "DO48Z", "relevant_windows": [[0.8, 9.0]]}
+{"qid": 14531, "query": "person putting their shoes in a closet", "duration": 31.25, "vid": "DO48Z", "relevant_windows": [[4.7, 17.9]]}
+{"qid": 14532, "query": "the person was smiling", "duration": 31.25, "vid": "DO48Z", "relevant_windows": [[0.8, 9.0]]}
+{"qid": 14533, "query": "person putting shoes on the shelf", "duration": 31.25, "vid": "DO48Z", "relevant_windows": [[5.7, 16.4]]}
+{"qid": 14534, "query": "the person opens a refrigerator", "duration": 21.3125, "vid": "0F453", "relevant_windows": [[0.3, 7.9]]}
+{"qid": 14535, "query": "person is opening refrigerator", "duration": 21.3125, "vid": "0F453", "relevant_windows": [[0.3, 7.9]]}
+{"qid": 14536, "query": "the person throws the stack of clothes onto a pillow", "duration": 24.9375, "vid": "5FHH2", "relevant_windows": [[21.3, 26.0]]}
+{"qid": 14537, "query": "person picks up a book to read", "duration": 30.125, "vid": "YO9NC", "relevant_windows": [[22.5, 31.0]]}
+{"qid": 14538, "query": "person put their clothes in the closet", "duration": 30.125, "vid": "YO9NC", "relevant_windows": [[7.6, 19.9]]}
+{"qid": 14539, "query": "person they start undressing by taking their jacket off", "duration": 30.125, "vid": "YO9NC", "relevant_windows": [[1.6, 11.6]]}
+{"qid": 14540, "query": "person begins to undress", "duration": 30.125, "vid": "YO9NC", "relevant_windows": [[1.6, 11.6]]}
+{"qid": 14541, "query": "person start watching the book", "duration": 30.125, "vid": "YO9NC", "relevant_windows": [[22.5, 31.0]]}
+{"qid": 14542, "query": "one person grasps a towel to put over a shoulder", "duration": 23.3125, "vid": "OR3G4", "relevant_windows": [[0.0, 9.3]]}
+{"qid": 14543, "query": "the person puts a towel over their shoulder", "duration": 23.3125, "vid": "OR3G4", "relevant_windows": [[0.0, 9.3]]}
+{"qid": 14544, "query": "person eat a sandwich", "duration": 31.0625, "vid": "27JQL", "relevant_windows": [[17.7, 24.1]]}
+{"qid": 14545, "query": "person eats a sandwich", "duration": 31.0625, "vid": "27JQL", "relevant_windows": [[17.7, 24.1]]}
+{"qid": 14546, "query": "person closes the refrigerator", "duration": 30.4375, "vid": "67MSU", "relevant_windows": [[22.7, 31.0]]}
+{"qid": 14547, "query": "person they open the refrigerator", "duration": 30.4375, "vid": "67MSU", "relevant_windows": [[0.0, 3.8]]}
+{"qid": 14548, "query": "a person opens a refrigerator", "duration": 30.4375, "vid": "67MSU", "relevant_windows": [[0.0, 3.8]]}
+{"qid": 14549, "query": "person walk through the doorway smiling", "duration": 30.625, "vid": "0GH5O", "relevant_windows": [[0.0, 4.9]]}
+{"qid": 14550, "query": "the person opens the front door looks outside", "duration": 30.625, "vid": "0GH5O", "relevant_windows": [[7.0, 13.7]]}
+{"qid": 14551, "query": "person puts away some clothes", "duration": 31.125, "vid": "6Z9ZC", "relevant_windows": [[10.2, 18.1]]}
+{"qid": 14552, "query": "person someone putting clothes in a drawer", "duration": 31.125, "vid": "6Z9ZC", "relevant_windows": [[10.2, 18.1]]}
+{"qid": 14553, "query": "person take out a vacuum", "duration": 33.25, "vid": "MC6J7", "relevant_windows": [[19.3, 32.6]]}
+{"qid": 14554, "query": "a person opens the door of a wardrobe", "duration": 33.25, "vid": "MC6J7", "relevant_windows": [[0.0, 6.1]]}
+{"qid": 14555, "query": "person they throw the clothes in the closet", "duration": 33.25, "vid": "MC6J7", "relevant_windows": [[11.5, 17.7]]}
+{"qid": 14556, "query": "person walk away smiling", "duration": 33.25, "vid": "MC6J7", "relevant_windows": [[21.3, 33.1]]}
+{"qid": 14557, "query": "person puts the clothes in the wardrobe", "duration": 33.25, "vid": "MC6J7", "relevant_windows": [[8.5, 17.2]]}
+{"qid": 14558, "query": "person proceeds to throw the box on the floor", "duration": 20.5625, "vid": "FX7ZY", "relevant_windows": [[16.2, 21.0]]}
+{"qid": 14559, "query": "person they begin opening the box", "duration": 20.5625, "vid": "FX7ZY", "relevant_windows": [[2.0, 7.0]]}
+{"qid": 14560, "query": "person throwing it to the floor", "duration": 20.5625, "vid": "FX7ZY", "relevant_windows": [[16.2, 21.0]]}
+{"qid": 14561, "query": "person shutting the closet door behind them", "duration": 21.25, "vid": "00X3U", "relevant_windows": [[14.9, 20.5]]}
+{"qid": 14562, "query": "person grabbing a blanket leaving the closet shutting the door", "duration": 21.25, "vid": "00X3U", "relevant_windows": [[14.9, 20.5]]}
+{"qid": 14563, "query": "person run away", "duration": 21.25, "vid": "00X3U", "relevant_windows": [[17.1, 22.0]]}
+{"qid": 14564, "query": "person puts the box away", "duration": 32.8125, "vid": "ESTDK", "relevant_windows": [[27.7, 33.0]]}
+{"qid": 14565, "query": "person putting the box back", "duration": 32.8125, "vid": "ESTDK", "relevant_windows": [[27.7, 33.0]]}
+{"qid": 14566, "query": "person opens the cabinet", "duration": 32.8125, "vid": "ESTDK", "relevant_windows": [[0.0, 9.2]]}
+{"qid": 14567, "query": "a person opens up the cabinet", "duration": 32.8125, "vid": "ESTDK", "relevant_windows": [[0.0, 9.2]]}
+{"qid": 14568, "query": "the person puts the glass down", "duration": 32.8125, "vid": "ESTDK", "relevant_windows": [[21.0, 27.2]]}
+{"qid": 14569, "query": "person throws it on the floor", "duration": 30.625, "vid": "D2T7Z", "relevant_windows": [[16.8, 24.0]]}
+{"qid": 14570, "query": "person throws it onto the floor", "duration": 30.625, "vid": "D2T7Z", "relevant_windows": [[16.8, 24.0]]}
+{"qid": 14571, "query": "a person takes some boxes out of a cabinet", "duration": 30.75, "vid": "XFRYR", "relevant_windows": [[5.4, 15.2]]}
+{"qid": 14572, "query": "person puts a box on the closet shelf", "duration": 31.9375, "vid": "G2DIN", "relevant_windows": [[6.6, 15.5]]}
+{"qid": 14573, "query": "person takes some clothes out", "duration": 31.9375, "vid": "G2DIN", "relevant_windows": [[23.1, 33.0]]}
+{"qid": 14574, "query": "person puts a box of medicine on the shelf", "duration": 31.9375, "vid": "G2DIN", "relevant_windows": [[6.6, 15.5]]}
+{"qid": 14575, "query": "a person opens the closet door", "duration": 31.9375, "vid": "G2DIN", "relevant_windows": [[11.5, 18.8]]}
+{"qid": 14576, "query": "person takes off their shoes", "duration": 31.1875, "vid": "J3V1D", "relevant_windows": [[19.6, 25.6]]}
+{"qid": 14577, "query": "a person opens a box", "duration": 29.8125, "vid": "KZSA9", "relevant_windows": [[9.5, 17.7]]}
+{"qid": 14578, "query": "person takes a blanket out", "duration": 29.8125, "vid": "KZSA9", "relevant_windows": [[23.6, 30.9]]}
+{"qid": 14579, "query": "person closes the box", "duration": 29.8125, "vid": "KZSA9", "relevant_windows": [[19.5, 29.6]]}
+{"qid": 14580, "query": "person sits in a chair at the table", "duration": 28.9375, "vid": "54VBR", "relevant_windows": [[16.3, 23.8]]}
+{"qid": 14581, "query": "a person is sitting at a table eating a sandwich", "duration": 28.9375, "vid": "54VBR", "relevant_windows": [[16.3, 23.8]]}
+{"qid": 14582, "query": "person sits down at the table", "duration": 28.9375, "vid": "54VBR", "relevant_windows": [[16.3, 23.8]]}
+{"qid": 14583, "query": "a person is sitting at the table eating a sandwich", "duration": 28.9375, "vid": "54VBR", "relevant_windows": [[16.3, 23.8]]}
+{"qid": 14584, "query": "person takes a drink from a glass", "duration": 28.9375, "vid": "54VBR", "relevant_windows": [[13.0, 18.7]]}
+{"qid": 14585, "query": "the person eats the snack", "duration": 32.875, "vid": "9A5MP", "relevant_windows": [[9.3, 25.6]]}
+{"qid": 14586, "query": "person closes the door", "duration": 32.875, "vid": "9A5MP", "relevant_windows": [[26.5, 34.0]]}
+{"qid": 14587, "query": "a person tidying the area with a broom stops", "duration": 32.875, "vid": "9A5MP", "relevant_windows": [[0.0, 15.3]]}
+{"qid": 14588, "query": "person takes a bite of food removed from a bag", "duration": 32.875, "vid": "9A5MP", "relevant_windows": [[9.2, 22.3]]}
+{"qid": 14589, "query": "a person uses a broom to tidy up the garage", "duration": 32.875, "vid": "9A5MP", "relevant_windows": [[0.0, 15.3]]}
+{"qid": 14590, "query": "person closes the door", "duration": 30.25, "vid": "BV5CC", "relevant_windows": [[12.9, 21.3]]}
+{"qid": 14591, "query": "person start to eat", "duration": 30.25, "vid": "BV5CC", "relevant_windows": [[19.4, 31.0]]}
+{"qid": 14592, "query": "person they take a sandwich from the cabinet", "duration": 30.25, "vid": "BV5CC", "relevant_windows": [[17.7, 23.4]]}
+{"qid": 14593, "query": "person start eating it", "duration": 30.25, "vid": "BV5CC", "relevant_windows": [[19.4, 31.0]]}
+{"qid": 14594, "query": "person they reach into an open cabinet", "duration": 30.25, "vid": "BV5CC", "relevant_windows": [[0.6, 5.6]]}
+{"qid": 14595, "query": "person closes the door", "duration": 25.25, "vid": "61IVZ", "relevant_windows": [[2.6, 9.2]]}
+{"qid": 14596, "query": "person they set down the bag they're holding", "duration": 25.25, "vid": "61IVZ", "relevant_windows": [[0.0, 12.0]]}
+{"qid": 14597, "query": "person put down the bag they were holding", "duration": 25.25, "vid": "61IVZ", "relevant_windows": [[5.8, 13.3]]}
+{"qid": 14598, "query": "the person puts a bag down", "duration": 25.25, "vid": "61IVZ", "relevant_windows": [[5.8, 13.3]]}
+{"qid": 14599, "query": "a person opens the door", "duration": 25.25, "vid": "61IVZ", "relevant_windows": [[0.0, 5.3]]}
+{"qid": 14600, "query": "a person holding a glass drinking", "duration": 32.125, "vid": "4WMDU", "relevant_windows": [[19.8, 30.5]]}
+{"qid": 14601, "query": "person drinking from a glass", "duration": 32.125, "vid": "4WMDU", "relevant_windows": [[0.2, 7.8]]}
+{"qid": 14602, "query": "carrying a bag of foodthe person opens the bag", "duration": 32.125, "vid": "4WMDU", "relevant_windows": [[4.4, 12.7]]}
+{"qid": 14603, "query": "person puts glass on counter", "duration": 32.125, "vid": "4WMDU", "relevant_windows": [[2.6, 7.9]]}
+{"qid": 14604, "query": "person drinks out of glass again", "duration": 32.125, "vid": "4WMDU", "relevant_windows": [[0.2, 7.8]]}
+{"qid": 14605, "query": "a person is running down the hallway", "duration": 33.125, "vid": "2FL0X", "relevant_windows": [[1.0, 6.8]]}
+{"qid": 14606, "query": "person opens the door", "duration": 33.125, "vid": "2FL0X", "relevant_windows": [[2.8, 9.6]]}
+{"qid": 14607, "query": "the person runs to the basement", "duration": 33.125, "vid": "2FL0X", "relevant_windows": [[1.0, 6.8]]}
+{"qid": 14608, "query": "person opens a door", "duration": 33.125, "vid": "2FL0X", "relevant_windows": [[2.8, 9.6]]}
+{"qid": 14609, "query": "a person is smiling", "duration": 30.5625, "vid": "BIQGN", "relevant_windows": [[0.0, 5.4]]}
+{"qid": 14610, "query": "person closes the door", "duration": 30.5625, "vid": "BIQGN", "relevant_windows": [[12.5, 17.8]]}
+{"qid": 14611, "query": "a smiling person walks into a bathroom", "duration": 30.5625, "vid": "BIQGN", "relevant_windows": [[0.0, 5.4]]}
+{"qid": 14612, "query": "the person puts a towel on a shelf", "duration": 30.5625, "vid": "BIQGN", "relevant_windows": [[15.8, 21.2]]}
+{"qid": 14613, "query": "person opens a cabinet", "duration": 30.75, "vid": "KA3ER", "relevant_windows": [[14.9, 22.1]]}
+{"qid": 14614, "query": "a person is putting groceries on a shelf", "duration": 30.75, "vid": "KA3ER", "relevant_windows": [[0.0, 13.6]]}
+{"qid": 14615, "query": "a person is opening the closet door", "duration": 29.875, "vid": "JCT0K", "relevant_windows": [[2.6, 10.2]]}
+{"qid": 14616, "query": "person opens the closet", "duration": 29.875, "vid": "JCT0K", "relevant_windows": [[0.1, 6.2]]}
+{"qid": 14617, "query": "a person is running through the doorway", "duration": 30.0625, "vid": "MS58Y", "relevant_windows": [[0.0, 9.0]]}
+{"qid": 14618, "query": "person walk through a second doorway", "duration": 30.0625, "vid": "MS58Y", "relevant_windows": [[0.0, 9.8]]}
+{"qid": 14619, "query": "takes a picture of the second person", "duration": 31.875, "vid": "SWZWL", "relevant_windows": [[21.7, 33.0]]}
+{"qid": 14620, "query": "laughing in a mischievous manner", "duration": 29.75, "vid": "VS7VS", "relevant_windows": [[15.7, 23.4]]}
+{"qid": 14621, "query": "person opening a bag", "duration": 17.9375, "vid": "NHUV1", "relevant_windows": [[0.0, 3.1]]}
+{"qid": 14622, "query": "person turns the light off", "duration": 9.3125, "vid": "Q5MDU", "relevant_windows": [[0.0, 3.6]]}
+{"qid": 14623, "query": "person turns the light on", "duration": 9.3125, "vid": "Q5MDU", "relevant_windows": [[0.0, 3.6]]}
+{"qid": 14624, "query": "person turning on a light", "duration": 9.3125, "vid": "Q5MDU", "relevant_windows": [[0.0, 3.6]]}
+{"qid": 14625, "query": "person turns on a light", "duration": 9.3125, "vid": "Q5MDU", "relevant_windows": [[0.0, 3.6]]}
+{"qid": 14626, "query": "person goes into the kitchen to eat something", "duration": 31.6875, "vid": "18FTZ", "relevant_windows": [[25.0, 33.0]]}
+{"qid": 14627, "query": "a person is eating over a sink", "duration": 31.6875, "vid": "18FTZ", "relevant_windows": [[25.0, 33.0]]}
+{"qid": 14628, "query": "person runs down a hallway", "duration": 31.9375, "vid": "TLCLG", "relevant_windows": [[23.6, 32.9]]}
+{"qid": 14629, "query": "person talking on the phone", "duration": 31.9375, "vid": "TLCLG", "relevant_windows": [[13.8, 22.5]]}
+{"qid": 14630, "query": "person go for a run", "duration": 31.9375, "vid": "TLCLG", "relevant_windows": [[23.6, 32.9]]}
+{"qid": 14631, "query": "a person is talking on the phone", "duration": 31.9375, "vid": "TLCLG", "relevant_windows": [[13.8, 22.5]]}
+{"qid": 14632, "query": "the person quickly runs out", "duration": 31.9375, "vid": "TLCLG", "relevant_windows": [[23.6, 32.9]]}
+{"qid": 14633, "query": "person they close the door", "duration": 24.4375, "vid": "XF93D", "relevant_windows": [[4.0, 11.0]]}
+{"qid": 14634, "query": "a person puts away a broom", "duration": 24.4375, "vid": "XF93D", "relevant_windows": [[2.5, 8.0]]}
+{"qid": 14635, "query": "person puts broom in the closet", "duration": 24.4375, "vid": "XF93D", "relevant_windows": [[2.5, 8.0]]}
+{"qid": 14636, "query": "person opens a door", "duration": 24.4375, "vid": "XF93D", "relevant_windows": [[22.3, 25.0]]}
+{"qid": 14637, "query": "person smiles when they look in the mirror", "duration": 29.125, "vid": "QZP8N", "relevant_windows": [[3.1, 10.3]]}
+{"qid": 14638, "query": "this person takes some comic books off the shelf", "duration": 31.4375, "vid": "TKOYQ", "relevant_windows": [[0.0, 5.1]]}
+{"qid": 14639, "query": "person closes the door", "duration": 24.0625, "vid": "X1R6D", "relevant_windows": [[2.2, 8.9]]}
+{"qid": 14640, "query": "the person closes the door behind them", "duration": 24.0625, "vid": "X1R6D", "relevant_windows": [[2.2, 8.9]]}
+{"qid": 14641, "query": "a person runs down the stairs eating a sandwich", "duration": 21.8125, "vid": "RSTVT", "relevant_windows": [[0.1, 7.4]]}
+{"qid": 14642, "query": "a person is running down the stairs", "duration": 21.8125, "vid": "RSTVT", "relevant_windows": [[0.1, 7.4]]}
+{"qid": 14643, "query": "a person opens a closet door", "duration": 12.0, "vid": "FQGQS", "relevant_windows": [[0.0, 4.3]]}
+{"qid": 14644, "query": "person throws a pair of shoes inside", "duration": 12.0, "vid": "FQGQS", "relevant_windows": [[0.7, 5.3]]}
+{"qid": 14645, "query": "there is a person at the stove cooking something", "duration": 30.6875, "vid": "6RPUS", "relevant_windows": [[0.0, 11.8]]}
+{"qid": 14646, "query": "person throws the box", "duration": 26.9375, "vid": "40TYU", "relevant_windows": [[9.7, 14.6]]}
+{"qid": 14647, "query": "person throws the box onto the floor", "duration": 26.9375, "vid": "40TYU", "relevant_windows": [[9.7, 14.6]]}
+{"qid": 14648, "query": "person opens up the laptop", "duration": 30.1875, "vid": "O1LMX", "relevant_windows": [[11.5, 18.8]]}
+{"qid": 14649, "query": "the person puts the book away", "duration": 30.1875, "vid": "O1LMX", "relevant_windows": [[8.4, 14.2]]}
+{"qid": 14650, "query": "a person holds a book", "duration": 30.1875, "vid": "O1LMX", "relevant_windows": [[1.9, 14.3]]}
+{"qid": 14651, "query": "person opens the laptop up", "duration": 30.1875, "vid": "O1LMX", "relevant_windows": [[11.5, 18.8]]}
+{"qid": 14652, "query": "the person looks at the book", "duration": 30.1875, "vid": "O1LMX", "relevant_windows": [[2.1, 14.2]]}
+{"qid": 14653, "query": "person opens laptop", "duration": 27.625, "vid": "2ECXI", "relevant_windows": [[5.7, 13.2]]}
+{"qid": 14654, "query": "person opening their laptop", "duration": 27.625, "vid": "2ECXI", "relevant_windows": [[5.7, 13.2]]}
+{"qid": 14655, "query": "person lies on bed", "duration": 27.625, "vid": "2ECXI", "relevant_windows": [[2.1, 8.1]]}
+{"qid": 14656, "query": "a person takes bags", "duration": 30.8125, "vid": "5OB3W", "relevant_windows": [[20.7, 26.9]]}
+{"qid": 14657, "query": "person they begin opening bags", "duration": 30.8125, "vid": "5OB3W", "relevant_windows": [[0.0, 6.3]]}
+{"qid": 14658, "query": "the person opens the box", "duration": 38.375, "vid": "YV0ZX", "relevant_windows": [[11.1, 19.1]]}
+{"qid": 14659, "query": "person they use the doorknob to open the cabinet", "duration": 32.0, "vid": "OKXIQ", "relevant_windows": [[0.0, 5.7]]}
+{"qid": 14660, "query": "person drinking a cup of milk", "duration": 38.625, "vid": "GKSL2", "relevant_windows": [[9.2, 17.6]]}
+{"qid": 14661, "query": "person talk on a phone", "duration": 38.625, "vid": "GKSL2", "relevant_windows": [[24.4, 39.0]]}
+{"qid": 14662, "query": "person talking on the phone", "duration": 38.625, "vid": "GKSL2", "relevant_windows": [[24.4, 39.0]]}
+{"qid": 14663, "query": "a person is in their living room eating a cookie", "duration": 38.625, "vid": "GKSL2", "relevant_windows": [[6.1, 13.2]]}
+{"qid": 14664, "query": "the person sits in a chair eating a snack", "duration": 38.625, "vid": "GKSL2", "relevant_windows": [[6.1, 13.2]]}
+{"qid": 14665, "query": "person eating food", "duration": 38.625, "vid": "GKSL2", "relevant_windows": [[6.1, 13.2]]}
+{"qid": 14666, "query": "the person is closing the refrigerator", "duration": 32.5, "vid": "HKJUR", "relevant_windows": [[20.2, 27.3]]}
+{"qid": 14667, "query": "person opening a refrigerator", "duration": 32.5, "vid": "HKJUR", "relevant_windows": [[1.9, 10.9]]}
+{"qid": 14668, "query": "person laughing as they eat a sandwich", "duration": 31.9375, "vid": "2JTRG", "relevant_windows": [[15.0, 25.1]]}
+{"qid": 14669, "query": "one person takes a glass from a shelf", "duration": 34.25, "vid": "LCLLN", "relevant_windows": [[0.0, 5.1]]}
+{"qid": 14670, "query": "person drinking some water from a glass", "duration": 34.25, "vid": "LCLLN", "relevant_windows": [[1.4, 6.9]]}
+{"qid": 14671, "query": "person takes a blanket from somewhere", "duration": 34.25, "vid": "LCLLN", "relevant_windows": [[5.5, 11.9]]}
+{"qid": 14672, "query": "person sitting on the couch", "duration": 31.5, "vid": "BOOKV", "relevant_windows": [[22.3, 32.0]]}
+{"qid": 14673, "query": "person pours something into a cup", "duration": 35.375, "vid": "2MGC1", "relevant_windows": [[23.2, 36.0]]}
+{"qid": 14674, "query": "a person holding a bag opens their door", "duration": 35.375, "vid": "2MGC1", "relevant_windows": [[3.6, 9.0]]}
+{"qid": 14675, "query": "person puts a sandwich", "duration": 30.0625, "vid": "DVHIB", "relevant_windows": [[20.0, 27.6]]}
+{"qid": 14676, "query": "person takes a book from a bag", "duration": 30.0625, "vid": "DVHIB", "relevant_windows": [[11.6, 19.2]]}
+{"qid": 14677, "query": "person pours a drink into a cup", "duration": 30.6875, "vid": "LQK90", "relevant_windows": [[22.9, 31.0]]}
+{"qid": 14678, "query": "person takes it with a glass of water", "duration": 29.5625, "vid": "AMIHY", "relevant_windows": [[18.4, 29.5]]}
+{"qid": 14679, "query": "person eating a sandwich", "duration": 29.5625, "vid": "AMIHY", "relevant_windows": [[0.0, 13.8]]}
+{"qid": 14680, "query": "person opens a laptop up", "duration": 30.375, "vid": "AB2V6", "relevant_windows": [[20.0, 25.2]]}
+{"qid": 14681, "query": "person they stand up", "duration": 30.375, "vid": "AB2V6", "relevant_windows": [[11.9, 17.3]]}
+{"qid": 14682, "query": "a person is on the sofa sneezing", "duration": 30.375, "vid": "AB2V6", "relevant_windows": [[6.8, 13.5]]}
+{"qid": 14683, "query": "person opened the laptop computer", "duration": 30.375, "vid": "AB2V6", "relevant_windows": [[20.0, 25.2]]}
+{"qid": 14684, "query": "person they put down the food", "duration": 30.625, "vid": "H1J19", "relevant_windows": [[17.8, 23.2]]}
+{"qid": 14685, "query": "person put the food down on a nearby table", "duration": 30.625, "vid": "H1J19", "relevant_windows": [[17.8, 23.2]]}
+{"qid": 14686, "query": "person they close the cabinet", "duration": 30.9375, "vid": "2U0QT", "relevant_windows": [[20.4, 25.1]]}
+{"qid": 14687, "query": "person watch some television", "duration": 30.9375, "vid": "2U0QT", "relevant_windows": [[11.7, 17.1]]}
+{"qid": 14688, "query": "a person opens a cabinet next to a television", "duration": 30.9375, "vid": "2U0QT", "relevant_windows": [[2.3, 7.2]]}
+{"qid": 14689, "query": "person they take a glass of water", "duration": 30.9375, "vid": "2U0QT", "relevant_windows": [[6.2, 11.9]]}
+{"qid": 14690, "query": "person close the cabinet door", "duration": 30.9375, "vid": "2U0QT", "relevant_windows": [[20.4, 25.1]]}
+{"qid": 14691, "query": "person closes the door", "duration": 30.9375, "vid": "2U0QT", "relevant_windows": [[20.4, 25.1]]}
+{"qid": 14692, "query": "a person opens the cabinet door", "duration": 30.9375, "vid": "2U0QT", "relevant_windows": [[2.3, 7.2]]}
+{"qid": 14693, "query": "person watching television", "duration": 30.9375, "vid": "2U0QT", "relevant_windows": [[11.7, 17.1]]}
+{"qid": 14694, "query": "person takes a glass of water", "duration": 30.9375, "vid": "2U0QT", "relevant_windows": [[6.2, 11.9]]}
+{"qid": 14695, "query": "a person is working on a laptop", "duration": 31.3125, "vid": "BVCCX", "relevant_windows": [[0.0, 6.2]]}
+{"qid": 14696, "query": "a person drinks a cup of coffee", "duration": 24.125, "vid": "EWY6I", "relevant_windows": [[0.0, 10.2]]}
+{"qid": 14697, "query": "person opens the door", "duration": 30.9375, "vid": "4JW8U", "relevant_windows": [[6.5, 12.6]]}
+{"qid": 14698, "query": "person put the towel down on the workbench", "duration": 30.9375, "vid": "4JW8U", "relevant_windows": [[21.6, 32.0]]}
+{"qid": 14699, "query": "person they open the door", "duration": 30.9375, "vid": "4JW8U", "relevant_windows": [[6.5, 12.6]]}
+{"qid": 14700, "query": "a person takes a bag of groceries into a kitchen", "duration": 34.1875, "vid": "WM8QQ", "relevant_windows": [[23.7, 29.9]]}
+{"qid": 14701, "query": "person putting the bag on the table", "duration": 34.1875, "vid": "WM8QQ", "relevant_windows": [[1.4, 13.8]]}
+{"qid": 14702, "query": "the person takes some of the food out", "duration": 34.1875, "vid": "WM8QQ", "relevant_windows": [[0.0, 12.4]]}
+{"qid": 14703, "query": "person puts on the table", "duration": 34.1875, "vid": "WM8QQ", "relevant_windows": [[1.4, 13.8]]}
+{"qid": 14704, "query": "person turn on the light", "duration": 32.0, "vid": "ATIAW", "relevant_windows": [[27.3, 32.9]]}
+{"qid": 14705, "query": "person turning on a light", "duration": 32.0, "vid": "ATIAW", "relevant_windows": [[27.3, 32.9]]}
+{"qid": 14706, "query": "person drinking coffee from a cup", "duration": 30.9375, "vid": "1Y09V", "relevant_windows": [[4.5, 10.3]]}
+{"qid": 14707, "query": "a person drinks from a cup of coffee", "duration": 30.9375, "vid": "1Y09V", "relevant_windows": [[4.5, 10.3]]}
+{"qid": 14708, "query": "a person walks in holding a bag of groceries", "duration": 33.9375, "vid": "M8OYC", "relevant_windows": [[1.7, 11.5]]}
+{"qid": 14709, "query": "the person was drinking from a bottle", "duration": 30.8125, "vid": "E2EXR", "relevant_windows": [[16.1, 22.6]]}
+{"qid": 14710, "query": "person drinking something out of a bottle", "duration": 30.8125, "vid": "E2EXR", "relevant_windows": [[16.1, 22.6]]}
+{"qid": 14711, "query": "person they put it down on the table", "duration": 29.9375, "vid": "XOFEX", "relevant_windows": [[12.0, 17.2]]}
+{"qid": 14712, "query": "the person closes the door", "duration": 30.1875, "vid": "AL1WC", "relevant_windows": [[0.0, 3.8]]}
+{"qid": 14713, "query": "person pours a glass of water", "duration": 44.625, "vid": "7WIKW", "relevant_windows": [[2.7, 11.1]]}
+{"qid": 14714, "query": "person pours coffee into a glass", "duration": 44.625, "vid": "7WIKW", "relevant_windows": [[2.7, 11.1]]}
+{"qid": 14715, "query": "person starts awakening due to loud noise from vacuum cleaner", "duration": 30.1875, "vid": "CBXI2", "relevant_windows": [[19.5, 25.0]]}
+{"qid": 14716, "query": "person drink from a glass", "duration": 23.625, "vid": "MSN1B", "relevant_windows": [[8.3, 14.7]]}
+{"qid": 14717, "query": "a laughing person awakens in their living room", "duration": 23.625, "vid": "MSN1B", "relevant_windows": [[0.0, 6.9]]}
+{"qid": 14718, "query": "person holding a phone", "duration": 23.625, "vid": "MSN1B", "relevant_windows": [[0.0, 9.9]]}
+{"qid": 14719, "query": "person eats a sandwich", "duration": 23.8125, "vid": "D4D2T", "relevant_windows": [[13.9, 25.0]]}
+{"qid": 14720, "query": "person takes some food out of a box", "duration": 23.8125, "vid": "D4D2T", "relevant_windows": [[9.4, 15.1]]}
+{"qid": 14721, "query": "person eats it", "duration": 23.8125, "vid": "D4D2T", "relevant_windows": [[13.9, 25.0]]}
+{"qid": 14722, "query": "person opens a box", "duration": 23.8125, "vid": "D4D2T", "relevant_windows": [[2.8, 12.9]]}
+{"qid": 14723, "query": "a person is sneezing into a wardrobe", "duration": 30.0, "vid": "1US0H", "relevant_windows": [[5.8, 15.4]]}
+{"qid": 14724, "query": "person fixes hair", "duration": 30.0, "vid": "1US0H", "relevant_windows": [[15.5, 28.1]]}
+{"qid": 14725, "query": "person sneezing into a towel", "duration": 30.0, "vid": "1US0H", "relevant_windows": [[5.8, 15.4]]}
+{"qid": 14726, "query": "a person closes the cabinet", "duration": 29.25, "vid": "3XL0K", "relevant_windows": [[0.0, 5.5]]}
+{"qid": 14727, "query": "a person closes a cabinet door", "duration": 29.25, "vid": "3XL0K", "relevant_windows": [[0.0, 5.5]]}
+{"qid": 14728, "query": "a person is throwing some clothes on the floor", "duration": 32.75, "vid": "DFD3T", "relevant_windows": [[0.0, 9.8]]}
+{"qid": 14729, "query": "the person is eating", "duration": 35.375, "vid": "4VCHD", "relevant_windows": [[7.3, 14.2]]}
+{"qid": 14730, "query": "person eating a sandwich", "duration": 35.375, "vid": "4VCHD", "relevant_windows": [[7.7, 15.1]]}
+{"qid": 14731, "query": "a person opens the door to the recreation room", "duration": 35.375, "vid": "4VCHD", "relevant_windows": [[0.0, 3.2]]}
+{"qid": 14732, "query": "the person sits in a chair", "duration": 35.375, "vid": "4VCHD", "relevant_windows": [[5.8, 11.3]]}
+{"qid": 14733, "query": "the person puts a pair of shoes", "duration": 29.3125, "vid": "VEKTO", "relevant_windows": [[0.0, 7.0]]}
+{"qid": 14734, "query": "person they put the shoes", "duration": 29.3125, "vid": "VEKTO", "relevant_windows": [[0.0, 7.0]]}
+{"qid": 14735, "query": "person take a towel", "duration": 29.3125, "vid": "VEKTO", "relevant_windows": [[4.0, 10.0]]}
+{"qid": 14736, "query": "person open a door", "duration": 39.1875, "vid": "Y6MUU", "relevant_windows": [[30.5, 37.6]]}
+{"qid": 14737, "query": "person packing his bag thrown in the bed", "duration": 31.625, "vid": "HJJ32", "relevant_windows": [[15.9, 21.0]]}
+{"qid": 14738, "query": "person opening a laptop", "duration": 26.4375, "vid": "6MJGP", "relevant_windows": [[0.0, 4.2]]}
+{"qid": 14739, "query": "person turns off a light", "duration": 30.8125, "vid": "FDPHZ", "relevant_windows": [[14.9, 21.0]]}
+{"qid": 14740, "query": "person turns off the light", "duration": 30.8125, "vid": "FDPHZ", "relevant_windows": [[14.9, 21.0]]}
+{"qid": 14741, "query": "person working on a laptop", "duration": 34.4375, "vid": "TDAY1", "relevant_windows": [[0.0, 16.6]]}
+{"qid": 14742, "query": "person stand up from the laying position", "duration": 34.4375, "vid": "TDAY1", "relevant_windows": [[23.4, 35.0]]}
+{"qid": 14743, "query": "person takes a bottle", "duration": 30.1875, "vid": "D9F5V", "relevant_windows": [[18.1, 23.5]]}
+{"qid": 14744, "query": "person box are put on a table in the closet", "duration": 26.9375, "vid": "Z7QTA", "relevant_windows": [[14.7, 23.2]]}
+{"qid": 14745, "query": "the person walks out of the room through a doorway", "duration": 17.25, "vid": "SY1JE", "relevant_windows": [[10.5, 17.2]]}
+{"qid": 14746, "query": "person opens their laptop", "duration": 31.8125, "vid": "FR4K2", "relevant_windows": [[23.4, 30.1]]}
+{"qid": 14747, "query": "the person washes their hands in the sink", "duration": 31.8125, "vid": "FR4K2", "relevant_windows": [[13.1, 22.2]]}
+{"qid": 14748, "query": "the person takes a blanket from a nearby chair", "duration": 31.6875, "vid": "MNEQ4", "relevant_windows": [[17.8, 24.6]]}
+{"qid": 14749, "query": "a person is opening a book", "duration": 34.1875, "vid": "ZC59Y", "relevant_windows": [[2.8, 10.2]]}
+{"qid": 14750, "query": "a person is sitting a pouring water into a glass", "duration": 36.125, "vid": "W65SM", "relevant_windows": [[5.7, 16.2]]}
+{"qid": 14751, "query": "this person runs into the room with a cup", "duration": 29.4375, "vid": "XPDI1", "relevant_windows": [[2.0, 9.0]]}
+{"qid": 14752, "query": "person running through the doorway", "duration": 29.4375, "vid": "XPDI1", "relevant_windows": [[2.0, 9.0]]}
+{"qid": 14753, "query": "another person is holding a box", "duration": 32.125, "vid": "UNQD7", "relevant_windows": [[21.5, 33.0]]}
+{"qid": 14754, "query": "a person closes a wardrobe door", "duration": 32.125, "vid": "UNQD7", "relevant_windows": [[0.3, 7.6]]}
+{"qid": 14755, "query": "person closes the door", "duration": 25.75, "vid": "8NJD2", "relevant_windows": [[18.3, 26.4]]}
+{"qid": 14756, "query": "a person opens a large cabinet to get a broom", "duration": 25.75, "vid": "8NJD2", "relevant_windows": [[0.9, 7.0]]}
+{"qid": 14757, "query": "person opens closet", "duration": 25.75, "vid": "8NJD2", "relevant_windows": [[0.9, 7.0]]}
+{"qid": 14758, "query": "person turns on light", "duration": 31.125, "vid": "E3S4O", "relevant_windows": [[18.8, 32.0]]}
+{"qid": 14759, "query": "person plays with the light switch", "duration": 31.125, "vid": "E3S4O", "relevant_windows": [[18.8, 32.0]]}
+{"qid": 14760, "query": "person snuggling up to a pillow", "duration": 31.625, "vid": "279W6", "relevant_windows": [[3.4, 10.8]]}
+{"qid": 14761, "query": "person snuggles with a pillow", "duration": 31.625, "vid": "279W6", "relevant_windows": [[3.4, 10.8]]}
+{"qid": 14762, "query": "person snuggling with a pillow", "duration": 31.625, "vid": "279W6", "relevant_windows": [[3.4, 10.8]]}
+{"qid": 14763, "query": "a person is sitting in the chair on their laptop", "duration": 29.75, "vid": "P5YNX", "relevant_windows": [[0.0, 13.1]]}
+{"qid": 14764, "query": "a person is sitting in a chair", "duration": 29.75, "vid": "P5YNX", "relevant_windows": [[0.0, 13.1]]}
+{"qid": 14765, "query": "person working on their laptop", "duration": 29.75, "vid": "P5YNX", "relevant_windows": [[0.0, 12.7]]}
+{"qid": 14766, "query": "person looking at a picture", "duration": 29.5, "vid": "47532", "relevant_windows": [[17.4, 23.6]]}
+{"qid": 14767, "query": "person dresses up by the door", "duration": 29.3125, "vid": "93ESZ", "relevant_windows": [[5.6, 12.1]]}
+{"qid": 14768, "query": "person pouring a cup of coffee", "duration": 28.5, "vid": "P5ANU", "relevant_windows": [[20.9, 27.1]]}
+{"qid": 14769, "query": "the person puts the laptop on a table", "duration": 30.125, "vid": "QHNTC", "relevant_windows": [[18.1, 28.7]]}
+{"qid": 14770, "query": "person they start sneezing", "duration": 30.8125, "vid": "2C2AI", "relevant_windows": [[6.5, 13.5]]}
+{"qid": 14771, "query": "person put it on a shelf", "duration": 33.625, "vid": "38BDO", "relevant_windows": [[25.8, 34.0]]}
+{"qid": 14772, "query": "person puts it on a shelf", "duration": 33.625, "vid": "38BDO", "relevant_windows": [[25.8, 34.0]]}
+{"qid": 14773, "query": "person they put a blanket in a box", "duration": 33.625, "vid": "38BDO", "relevant_windows": [[20.3, 34.0]]}
+{"qid": 14774, "query": "person puts a blanket in a box", "duration": 33.625, "vid": "38BDO", "relevant_windows": [[20.3, 34.0]]}
+{"qid": 14775, "query": "person puts a folded blanket in a box", "duration": 33.625, "vid": "38BDO", "relevant_windows": [[20.3, 34.0]]}
+{"qid": 14776, "query": "person open up their homework book", "duration": 33.25, "vid": "VLE11", "relevant_windows": [[22.2, 29.7]]}
+{"qid": 14777, "query": "the person opens up the refrigerator to look for something", "duration": 30.5, "vid": "16KTS", "relevant_windows": [[20.7, 31.0]]}
+{"qid": 14778, "query": "person turning off the light", "duration": 28.5, "vid": "EG0IU", "relevant_windows": [[10.8, 16.1]]}
+{"qid": 14779, "query": "a person is holding a pillow", "duration": 30.5, "vid": "ORD96", "relevant_windows": [[0.0, 12.3]]}
+{"qid": 14780, "query": "a person is sitting in a chair", "duration": 25.875, "vid": "HRR0X", "relevant_windows": [[0.0, 11.3]]}
+{"qid": 14781, "query": "person take a bite of some food", "duration": 25.875, "vid": "HRR0X", "relevant_windows": [[20.0, 25.1]]}
+{"qid": 14782, "query": "person hits a light switch", "duration": 25.875, "vid": "HRR0X", "relevant_windows": [[14.1, 20.8]]}
+{"qid": 14783, "query": "person eat an apple", "duration": 25.875, "vid": "HRR0X", "relevant_windows": [[21.5, 27.0]]}
+{"qid": 14784, "query": "person they turn on a light", "duration": 25.875, "vid": "HRR0X", "relevant_windows": [[14.1, 20.8]]}
+{"qid": 14785, "query": "person holding a book", "duration": 25.875, "vid": "HRR0X", "relevant_windows": [[9.4, 16.5]]}
+{"qid": 14786, "query": "a person awakens in their dining room holding a book", "duration": 25.875, "vid": "HRR0X", "relevant_windows": [[9.4, 16.5]]}
+{"qid": 14787, "query": "person hey close the book", "duration": 31.375, "vid": "0RI7C", "relevant_windows": [[2.5, 7.5]]}
+{"qid": 14788, "query": "a person is sitting in the bathroom reading a book", "duration": 31.375, "vid": "0RI7C", "relevant_windows": [[0.0, 7.0]]}
+{"qid": 14789, "query": "person turns on light", "duration": 59.75, "vid": "31TDO", "relevant_windows": [[12.6, 29.1]]}
+{"qid": 14790, "query": "person sits down at the table", "duration": 59.75, "vid": "31TDO", "relevant_windows": [[37.4, 49.7]]}
+{"qid": 14791, "query": "person turns on the light", "duration": 59.75, "vid": "31TDO", "relevant_windows": [[12.6, 29.1]]}
+{"qid": 14792, "query": "person sits down at a table", "duration": 59.75, "vid": "31TDO", "relevant_windows": [[37.4, 49.7]]}
+{"qid": 14793, "query": "person eats some food", "duration": 59.75, "vid": "31TDO", "relevant_windows": [[9.0, 32.7]]}
+{"qid": 14794, "query": "the person turns on the light", "duration": 59.75, "vid": "31TDO", "relevant_windows": [[12.6, 29.1]]}
+{"qid": 14795, "query": "person throw their shoes on the floor", "duration": 29.75, "vid": "5D351", "relevant_windows": [[23.3, 29.4]]}
+{"qid": 14796, "query": "person throw the shoes", "duration": 29.75, "vid": "5D351", "relevant_windows": [[23.3, 29.4]]}
+{"qid": 14797, "query": "a person is eating a sandwich", "duration": 27.0625, "vid": "E2EHR", "relevant_windows": [[0.0, 3.9]]}
+{"qid": 14798, "query": "person putting the food back on the shelf", "duration": 30.125, "vid": "Z6B6S", "relevant_windows": [[9.9, 18.2]]}
+{"qid": 14799, "query": "a person sits in a chair in the kitchen", "duration": 25.625, "vid": "LHMMJ", "relevant_windows": [[0.0, 9.3]]}
+{"qid": 14800, "query": "person they begin sneezing", "duration": 30.4375, "vid": "IR7CA", "relevant_windows": [[2.7, 13.2]]}
+{"qid": 14801, "query": "person closes the pantry door", "duration": 30.5, "vid": "HOYUT", "relevant_windows": [[11.8, 17.5]]}
+{"qid": 14802, "query": "person opened the door", "duration": 38.6875, "vid": "35C4E", "relevant_windows": [[21.6, 30.8]]}
+{"qid": 14803, "query": "person opens the door", "duration": 38.6875, "vid": "35C4E", "relevant_windows": [[21.6, 30.8]]}
+{"qid": 14804, "query": "person they open the door", "duration": 38.6875, "vid": "35C4E", "relevant_windows": [[21.6, 30.8]]}
+{"qid": 14805, "query": "person open a laptop", "duration": 31.1875, "vid": "XSS0J", "relevant_windows": [[22.4, 31.7]]}
+{"qid": 14806, "query": "the person opens their laptop", "duration": 31.1875, "vid": "XSS0J", "relevant_windows": [[22.4, 31.7]]}
+{"qid": 14807, "query": "a person opens a door", "duration": 30.4375, "vid": "UIHDF", "relevant_windows": [[7.5, 13.8]]}
+{"qid": 14808, "query": "person opens the door", "duration": 30.4375, "vid": "UIHDF", "relevant_windows": [[7.5, 13.8]]}
+{"qid": 14809, "query": "a person is standing in the doorway smiling", "duration": 30.4375, "vid": "UIHDF", "relevant_windows": [[0.0, 4.3]]}
+{"qid": 14810, "query": "person smiling into the camera", "duration": 30.4375, "vid": "UIHDF", "relevant_windows": [[0.0, 4.3]]}
+{"qid": 14811, "query": "the person is sneezing", "duration": 28.25, "vid": "AGGSE", "relevant_windows": [[8.9, 15.0]]}
+{"qid": 14812, "query": "person throws clothes into a washing machine", "duration": 27.5625, "vid": "1T2W4", "relevant_windows": [[22.5, 28.0]]}
+{"qid": 14813, "query": "person throw clothes in the washer", "duration": 27.5625, "vid": "1T2W4", "relevant_windows": [[22.5, 28.0]]}
+{"qid": 14814, "query": "person a girl takes a bag", "duration": 32.75, "vid": "999BP", "relevant_windows": [[2.1, 7.7]]}
+{"qid": 14815, "query": "person puts it on the table", "duration": 32.75, "vid": "999BP", "relevant_windows": [[24.4, 31.2]]}
+{"qid": 14816, "query": "person laughing as they cook at the stove", "duration": 35.4375, "vid": "7JTEK", "relevant_windows": [[18.3, 24.8]]}
+{"qid": 14817, "query": "a person is putting a picture onto the wall", "duration": 30.25, "vid": "AMT7R", "relevant_windows": [[4.3, 12.5]]}
+{"qid": 14818, "query": "person take the medicine", "duration": 31.125, "vid": "NVF2S", "relevant_windows": [[16.5, 25.0]]}
+{"qid": 14819, "query": "person they take a medicine bottle from the table", "duration": 31.125, "vid": "NVF2S", "relevant_windows": [[16.5, 25.0]]}
+{"qid": 14820, "query": "person this they sit in a chair", "duration": 34.0625, "vid": "D0V0Y", "relevant_windows": [[22.5, 30.0]]}
+{"qid": 14821, "query": "a person walks through a doorway", "duration": 34.0625, "vid": "D0V0Y", "relevant_windows": [[6.2, 12.0]]}
+{"qid": 14822, "query": "person turns on the light", "duration": 34.0625, "vid": "D0V0Y", "relevant_windows": [[14.5, 20.5]]}
+{"qid": 14823, "query": "person turn on a light", "duration": 34.0625, "vid": "D0V0Y", "relevant_windows": [[14.5, 20.5]]}
+{"qid": 14824, "query": "person turns on a light", "duration": 34.0625, "vid": "D0V0Y", "relevant_windows": [[14.5, 20.5]]}
+{"qid": 14825, "query": "person takes off a shoe", "duration": 34.0625, "vid": "D0V0Y", "relevant_windows": [[25.3, 35.0]]}
+{"qid": 14826, "query": "person puts another shoe on", "duration": 34.0625, "vid": "D0V0Y", "relevant_windows": [[26.0, 35.0]]}
+{"qid": 14827, "query": "person begin to put on their shoes", "duration": 34.0625, "vid": "D0V0Y", "relevant_windows": [[26.0, 35.0]]}
+{"qid": 14828, "query": "a person puts a book down onto the shelf", "duration": 31.0625, "vid": "5F1AW", "relevant_windows": [[0.0, 5.4]]}
+{"qid": 14829, "query": "the person puts a book on the shelf", "duration": 31.0625, "vid": "5F1AW", "relevant_windows": [[0.0, 5.4]]}
+{"qid": 14830, "query": "person runs out", "duration": 20.625, "vid": "NACLT", "relevant_windows": [[12.6, 21.0]]}
+{"qid": 14831, "query": "person puts the shoes under the table", "duration": 20.625, "vid": "NACLT", "relevant_windows": [[6.4, 12.2]]}
+{"qid": 14832, "query": "a person is in the kitchen putting a box down", "duration": 30.75, "vid": "ARWNX", "relevant_windows": [[5.2, 11.5]]}
+{"qid": 14833, "query": "person puts the bag on the table", "duration": 30.0, "vid": "RVVDR", "relevant_windows": [[7.9, 15.0]]}
+{"qid": 14834, "query": "person putting it on a table", "duration": 30.0, "vid": "RVVDR", "relevant_windows": [[3.7, 12.6]]}
+{"qid": 14835, "query": "a person was holding a bag which he", "duration": 30.0, "vid": "RVVDR", "relevant_windows": [[0.0, 13.8]]}
+{"qid": 14836, "query": "a person is putting groceries in a bag", "duration": 30.0, "vid": "RVVDR", "relevant_windows": [[0.5, 11.0]]}
+{"qid": 14837, "query": "a person opens a bag", "duration": 30.0, "vid": "RVVDR", "relevant_windows": [[0.0, 11.6]]}
+{"qid": 14838, "query": "the person is dressing in the living room", "duration": 31.3125, "vid": "OTLX9", "relevant_windows": [[0.0, 10.4]]}
+{"qid": 14839, "query": "person opens the front door", "duration": 22.5625, "vid": "DM2XL", "relevant_windows": [[15.4, 20.9]]}
+{"qid": 14840, "query": "person opening a door", "duration": 22.5625, "vid": "DM2XL", "relevant_windows": [[15.4, 20.9]]}
+{"qid": 14841, "query": "a person opens a pantry door", "duration": 32.75, "vid": "UR5TU", "relevant_windows": [[0.4, 7.4]]}
+{"qid": 14842, "query": "person closes the cabinet door", "duration": 32.75, "vid": "UR5TU", "relevant_windows": [[20.2, 27.1]]}
+{"qid": 14843, "query": "person a girl opens the pantry door", "duration": 32.75, "vid": "UR5TU", "relevant_windows": [[0.4, 7.4]]}
+{"qid": 14844, "query": "the person closes the door", "duration": 32.75, "vid": "UR5TU", "relevant_windows": [[20.2, 27.1]]}
+{"qid": 14845, "query": "a person opens a closet", "duration": 32.75, "vid": "UR5TU", "relevant_windows": [[0.8, 7.7]]}
+{"qid": 14846, "query": "person closes the door", "duration": 32.75, "vid": "UR5TU", "relevant_windows": [[20.2, 27.1]]}
+{"qid": 14847, "query": "person opens a cabinet in the pantry", "duration": 32.75, "vid": "UR5TU", "relevant_windows": [[0.8, 7.7]]}
+{"qid": 14848, "query": "the person opens up a pantry door holding some clothing", "duration": 32.75, "vid": "UR5TU", "relevant_windows": [[0.4, 7.4]]}
+{"qid": 14849, "query": "person opens a cabinet", "duration": 32.75, "vid": "VE5DN", "relevant_windows": [[19.5, 28.6]]}
+{"qid": 14850, "query": "person put the pillow away in a cabinet", "duration": 32.75, "vid": "VE5DN", "relevant_windows": [[20.0, 29.2]]}
+{"qid": 14851, "query": "person begin sneezing by the stove", "duration": 32.75, "vid": "VE5DN", "relevant_windows": [[28.2, 34.0]]}
+{"qid": 14852, "query": "person put it on a shelf", "duration": 32.75, "vid": "VE5DN", "relevant_windows": [[19.4, 31.0]]}
+{"qid": 14853, "query": "a person awakens on a floor lying on a pillow", "duration": 32.75, "vid": "VE5DN", "relevant_windows": [[1.4, 11.8]]}
+{"qid": 14854, "query": "person eating a sandwich", "duration": 30.5, "vid": "LKYCT", "relevant_windows": [[10.3, 24.8]]}
+{"qid": 14855, "query": "person drink a glass of water", "duration": 30.5, "vid": "LKYCT", "relevant_windows": [[22.6, 31.0]]}
+{"qid": 14856, "query": "person drinking a glass of milk", "duration": 30.5, "vid": "LKYCT", "relevant_windows": [[22.6, 31.0]]}
+{"qid": 14857, "query": "person takes some food out of a bag", "duration": 37.3125, "vid": "UBVV7", "relevant_windows": [[9.9, 18.4]]}
+{"qid": 14858, "query": "person puts box in closet", "duration": 37.3125, "vid": "UBVV7", "relevant_windows": [[19.2, 27.1]]}
+{"qid": 14859, "query": "person eats small food item", "duration": 37.3125, "vid": "UBVV7", "relevant_windows": [[12.5, 25.6]]}
+{"qid": 14860, "query": "person takes the box", "duration": 37.3125, "vid": "UBVV7", "relevant_windows": [[23.9, 35.7]]}
+{"qid": 14861, "query": "person eats it", "duration": 37.3125, "vid": "UBVV7", "relevant_windows": [[12.5, 25.6]]}
+{"qid": 14862, "query": "person closes box", "duration": 37.3125, "vid": "UBVV7", "relevant_windows": [[19.2, 27.1]]}
+{"qid": 14863, "query": "person pours a cup of coffee", "duration": 31.0625, "vid": "GQ341", "relevant_windows": [[0.8, 5.2]]}
+{"qid": 14864, "query": "laughs as the person looks at photos loaded onto it", "duration": 31.0625, "vid": "GQ341", "relevant_windows": [[6.0, 14.1]]}
+{"qid": 14865, "query": "the person pours a cup of coffee", "duration": 31.0625, "vid": "GQ341", "relevant_windows": [[0.8, 5.2]]}
+{"qid": 14866, "query": "person laughing at a picture hanging on the wall", "duration": 32.625, "vid": "IEXTB", "relevant_windows": [[3.4, 13.0]]}
+{"qid": 14867, "query": "the person puts a towel on a shelf", "duration": 14.125, "vid": "3YNPY", "relevant_windows": [[2.6, 7.1]]}
+{"qid": 14868, "query": "person sits down in a chair", "duration": 14.125, "vid": "3YNPY", "relevant_windows": [[8.4, 15.0]]}
+{"qid": 14869, "query": "a person puts a towel onto the shelf", "duration": 14.125, "vid": "3YNPY", "relevant_windows": [[2.6, 7.1]]}
+{"qid": 14870, "query": "a person is undressing", "duration": 30.0625, "vid": "95HQC", "relevant_windows": [[2.3, 11.3]]}
+{"qid": 14871, "query": "person opens bag", "duration": 31.875, "vid": "D740L", "relevant_windows": [[11.6, 21.4]]}
+{"qid": 14872, "query": "person takes clothes out", "duration": 31.875, "vid": "D740L", "relevant_windows": [[1.3, 10.1]]}
+{"qid": 14873, "query": "person throws empty bag on floor", "duration": 31.875, "vid": "D740L", "relevant_windows": [[26.4, 31.5]]}
+{"qid": 14874, "query": "person taking a drink out of a cup", "duration": 16.25, "vid": "F3M1Q", "relevant_windows": [[9.4, 16.4]]}
+{"qid": 14875, "query": "person throws them on the floor", "duration": 16.25, "vid": "F3M1Q", "relevant_windows": [[0.7, 6.0]]}
+{"qid": 14876, "query": "a person takes off their shoes", "duration": 16.25, "vid": "F3M1Q", "relevant_windows": [[0.0, 3.5]]}
+{"qid": 14877, "query": "person takes a drink from a glass nearby", "duration": 16.25, "vid": "F3M1Q", "relevant_windows": [[9.4, 16.4]]}
+{"qid": 14878, "query": "a person takes their shoes off in the kitchen", "duration": 16.25, "vid": "F3M1Q", "relevant_windows": [[0.0, 3.5]]}
+{"qid": 14879, "query": "another person is closing a window", "duration": 31.125, "vid": "YQSN8", "relevant_windows": [[3.4, 13.8]]}
+{"qid": 14880, "query": "another person closses the window", "duration": 31.125, "vid": "YQSN8", "relevant_windows": [[3.4, 13.8]]}
+{"qid": 14881, "query": "the other person looks at the window", "duration": 31.125, "vid": "YQSN8", "relevant_windows": [[23.4, 32.0]]}
+{"qid": 14882, "query": "a person is awakening from laying down on the floor", "duration": 33.375, "vid": "6N4BD", "relevant_windows": [[1.7, 18.0]]}
+{"qid": 14883, "query": "person begin eating some unhealthy snack food from it", "duration": 33.375, "vid": "6N4BD", "relevant_windows": [[22.3, 34.0]]}
+{"qid": 14884, "query": "person eat from a grocery bag", "duration": 33.375, "vid": "6N4BD", "relevant_windows": [[22.3, 34.0]]}
+{"qid": 14885, "query": "person eats something", "duration": 33.375, "vid": "6N4BD", "relevant_windows": [[22.3, 34.0]]}
+{"qid": 14886, "query": "person they open the bag", "duration": 33.375, "vid": "6N4BD", "relevant_windows": [[14.5, 25.1]]}
+{"qid": 14887, "query": "the person takes off their shoes", "duration": 40.3125, "vid": "ENQUT", "relevant_windows": [[26.8, 38.4]]}
+{"qid": 14888, "query": "a person is washing their hands", "duration": 40.3125, "vid": "ENQUT", "relevant_windows": [[5.0, 11.2]]}
+{"qid": 14889, "query": "person they take their shoes off", "duration": 40.3125, "vid": "ENQUT", "relevant_windows": [[26.8, 38.4]]}
+{"qid": 14890, "query": "person throws them on the floor underneath the table", "duration": 40.3125, "vid": "ENQUT", "relevant_windows": [[36.8, 41.0]]}
+{"qid": 14891, "query": "a person is in a garage snuggling a blanket", "duration": 30.9375, "vid": "QCBIG", "relevant_windows": [[0.0, 13.4]]}
+{"qid": 14892, "query": "person start to undress by the doorway", "duration": 30.9375, "vid": "QCBIG", "relevant_windows": [[13.7, 22.6]]}
+{"qid": 14893, "query": "a person is eating", "duration": 49.75, "vid": "AYZS4", "relevant_windows": [[4.2, 17.9]]}
+{"qid": 14894, "query": "a person eats a banana", "duration": 49.75, "vid": "AYZS4", "relevant_windows": [[4.2, 17.9]]}
+{"qid": 14895, "query": "person eating a banana", "duration": 49.75, "vid": "AYZS4", "relevant_windows": [[4.2, 17.9]]}
+{"qid": 14896, "query": "person sitting down at a kitchen tables", "duration": 49.75, "vid": "AYZS4", "relevant_windows": [[0.0, 8.2]]}
+{"qid": 14897, "query": "person tidy up the table", "duration": 49.75, "vid": "AYZS4", "relevant_windows": [[14.9, 26.3]]}
+{"qid": 14898, "query": "the person is sitting at a table peeling", "duration": 49.75, "vid": "AYZS4", "relevant_windows": [[0.0, 8.2]]}
+{"qid": 14899, "query": "person eats it", "duration": 49.75, "vid": "AYZS4", "relevant_windows": [[4.2, 17.9]]}
+{"qid": 14900, "query": "person close the book", "duration": 41.8125, "vid": "P3CLM", "relevant_windows": [[29.1, 41.0]]}
+{"qid": 14901, "query": "person they close the book", "duration": 41.8125, "vid": "P3CLM", "relevant_windows": [[29.1, 41.0]]}
+{"qid": 14902, "query": "person eats a sandwich", "duration": 35.375, "vid": "FVPMC", "relevant_windows": [[25.2, 32.2]]}
+{"qid": 14903, "query": "person starts eating", "duration": 35.375, "vid": "FVPMC", "relevant_windows": [[25.2, 31.3]]}
+{"qid": 14904, "query": "a person is putting a broom inside the pantry door", "duration": 35.375, "vid": "FVPMC", "relevant_windows": [[14.6, 22.3]]}
+{"qid": 14905, "query": "a person holds a broom", "duration": 35.375, "vid": "FVPMC", "relevant_windows": [[0.0, 14.7]]}
+{"qid": 14906, "query": "person opens the doors of the cabinet", "duration": 35.375, "vid": "FVPMC", "relevant_windows": [[0.0, 6.2]]}
+{"qid": 14907, "query": "person eats the sandwich", "duration": 35.375, "vid": "FVPMC", "relevant_windows": [[25.2, 32.2]]}
+{"qid": 14908, "query": "person closes the cabinet doors", "duration": 35.375, "vid": "FVPMC", "relevant_windows": [[19.0, 27.9]]}
+{"qid": 14909, "query": "a person opens the door to the bathroom", "duration": 10.5, "vid": "YKT8I", "relevant_windows": [[0.0, 4.7]]}
+{"qid": 14910, "query": "a person opens the door", "duration": 10.5, "vid": "YKT8I", "relevant_windows": [[0.0, 4.7]]}
+{"qid": 14911, "query": "person they wash the glass", "duration": 26.625, "vid": "TIWRY", "relevant_windows": [[18.2, 27.0]]}
+{"qid": 14912, "query": "person begins to wash dishes", "duration": 26.625, "vid": "TIWRY", "relevant_windows": [[20.0, 27.0]]}
+{"qid": 14913, "query": "person tidying up a shelf", "duration": 39.125, "vid": "FWQYI", "relevant_windows": [[30.0, 40.0]]}
+{"qid": 14914, "query": "a person is pouring water into a glass", "duration": 32.0625, "vid": "SBG5F", "relevant_windows": [[6.0, 16.4]]}
+{"qid": 14915, "query": "person pours it into a glass on a table", "duration": 32.0625, "vid": "SBG5F", "relevant_windows": [[6.0, 16.4]]}
+{"qid": 14916, "query": "a person is awakening on a couch", "duration": 20.0625, "vid": "J84TZ", "relevant_windows": [[0.0, 6.5]]}
+{"qid": 14917, "query": "person walk to the doorway", "duration": 20.0625, "vid": "J84TZ", "relevant_windows": [[16.2, 21.0]]}
+{"qid": 14918, "query": "person walks through a doorway", "duration": 20.0625, "vid": "J84TZ", "relevant_windows": [[16.2, 21.0]]}
+{"qid": 14919, "query": "a person is sneezing", "duration": 34.0625, "vid": "96ATI", "relevant_windows": [[5.8, 15.9]]}
+{"qid": 14920, "query": "a person talks on the phone", "duration": 20.8125, "vid": "V00AL", "relevant_windows": [[0.0, 7.4]]}
+{"qid": 14921, "query": "person laying down smiling on phone", "duration": 20.8125, "vid": "V00AL", "relevant_windows": [[13.7, 19.4]]}
+{"qid": 14922, "query": "person reading a book", "duration": 30.75, "vid": "WDCGH", "relevant_windows": [[0.0, 3.8]]}
+{"qid": 14923, "query": "person throws blanket on bed", "duration": 31.4375, "vid": "Q4932", "relevant_windows": [[0.0, 4.5]]}
+{"qid": 14924, "query": "the person throws a blanket on the bed", "duration": 31.4375, "vid": "Q4932", "relevant_windows": [[0.0, 4.5]]}
+{"qid": 14925, "query": "a person is throwing a blanket on the bed", "duration": 31.4375, "vid": "Q4932", "relevant_windows": [[0.0, 4.5]]}
+{"qid": 14926, "query": "person starts eating & laughing", "duration": 31.4375, "vid": "Q4932", "relevant_windows": [[7.4, 14.8]]}
+{"qid": 14927, "query": "person runs out", "duration": 26.625, "vid": "O1ILB", "relevant_windows": [[12.4, 18.0]]}
+{"qid": 14928, "query": "a person runs into the garage", "duration": 26.625, "vid": "O1ILB", "relevant_windows": [[12.4, 18.0]]}
+{"qid": 14929, "query": "a person comes running into the garage", "duration": 26.625, "vid": "O1ILB", "relevant_windows": [[12.4, 18.0]]}
+{"qid": 14930, "query": "person runs back out", "duration": 26.625, "vid": "O1ILB", "relevant_windows": [[12.4, 18.0]]}
+{"qid": 14931, "query": "person begins sneezing", "duration": 31.375, "vid": "E06A2", "relevant_windows": [[4.0, 13.1]]}
+{"qid": 14932, "query": "opens the window another person comes in", "duration": 30.9375, "vid": "803H6", "relevant_windows": [[6.3, 12.3]]}
+{"qid": 14933, "query": "person opens a cabinet door", "duration": 30.9375, "vid": "803H6", "relevant_windows": [[6.3, 12.3]]}
+{"qid": 14934, "query": "person throws a pillow around complaining about the pillow", "duration": 30.9375, "vid": "803H6", "relevant_windows": [[11.0, 15.9]]}
+{"qid": 14935, "query": "a person is opening a window", "duration": 30.9375, "vid": "803H6", "relevant_windows": [[6.3, 12.3]]}
+{"qid": 14936, "query": "person puts the glass on a table", "duration": 27.375, "vid": "1LSEQ", "relevant_windows": [[6.7, 11.5]]}
+{"qid": 14937, "query": "person sitting down laughing at their desk", "duration": 33.0625, "vid": "5X6S7", "relevant_windows": [[1.6, 7.9]]}
+{"qid": 14938, "query": "a person is sitting in a chair smiling", "duration": 33.0625, "vid": "5X6S7", "relevant_windows": [[0.0, 14.3]]}
+{"qid": 14939, "query": "a person opens a door to a wardrobe", "duration": 29.0625, "vid": "5GG5W", "relevant_windows": [[0.0, 8.0]]}
+{"qid": 14940, "query": "a person opens a closet", "duration": 29.0625, "vid": "5GG5W", "relevant_windows": [[0.0, 8.2]]}
+{"qid": 14941, "query": "person takes a shot of medicine", "duration": 30.9375, "vid": "I7DGO", "relevant_windows": [[20.2, 32.0]]}
+{"qid": 14942, "query": "person opens the refrigerator", "duration": 29.125, "vid": "MV9N4", "relevant_windows": [[3.7, 8.8]]}
+{"qid": 14943, "query": "person stand up", "duration": 44.5, "vid": "99596", "relevant_windows": [[35.1, 42.4]]}
+{"qid": 14944, "query": "person begin dressing", "duration": 44.5, "vid": "99596", "relevant_windows": [[28.2, 39.5]]}
+{"qid": 14945, "query": "a person is awakening under a blanket", "duration": 44.5, "vid": "99596", "relevant_windows": [[14.6, 30.4]]}
+{"qid": 14946, "query": "the person is holding a broom", "duration": 16.875, "vid": "186EF", "relevant_windows": [[0.0, 7.9]]}
+{"qid": 14947, "query": "a person holds a broom", "duration": 16.875, "vid": "186EF", "relevant_windows": [[0.0, 7.9]]}
+{"qid": 14948, "query": "person puts down a picture", "duration": 23.75, "vid": "PCNUP", "relevant_windows": [[4.3, 9.7]]}
+{"qid": 14949, "query": "person puts the picture on the floor", "duration": 23.75, "vid": "PCNUP", "relevant_windows": [[4.3, 9.7]]}
+{"qid": 14950, "query": "the person puts the picture down", "duration": 23.75, "vid": "PCNUP", "relevant_windows": [[4.3, 9.7]]}
+{"qid": 14951, "query": "person starts smiling", "duration": 23.75, "vid": "PCNUP", "relevant_windows": [[13.5, 25.0]]}
+{"qid": 14952, "query": "a person is holding a picture", "duration": 23.75, "vid": "PCNUP", "relevant_windows": [[0.0, 9.1]]}
+{"qid": 14953, "query": "a person turns on the light", "duration": 23.75, "vid": "PCNUP", "relevant_windows": [[2.0, 7.1]]}
+{"qid": 14954, "query": "a person opens a door", "duration": 20.1875, "vid": "6AJX0", "relevant_windows": [[1.1, 6.5]]}
+{"qid": 14955, "query": "person closes the door back", "duration": 20.1875, "vid": "6AJX0", "relevant_windows": [[7.8, 13.2]]}
+{"qid": 14956, "query": "person close the door of the pantry", "duration": 20.1875, "vid": "6AJX0", "relevant_windows": [[7.8, 13.2]]}
+{"qid": 14957, "query": "person walks through the doorway", "duration": 30.5, "vid": "UU5XI", "relevant_windows": [[27.2, 31.0]]}
+{"qid": 14958, "query": "person puts his shoes on", "duration": 44.125, "vid": "OM2NF", "relevant_windows": [[23.7, 34.8]]}
+{"qid": 14959, "query": "person drinking coffee from a glass", "duration": 44.125, "vid": "OM2NF", "relevant_windows": [[2.2, 8.8]]}
+{"qid": 14960, "query": "person he puts on his shoes", "duration": 44.125, "vid": "OM2NF", "relevant_windows": [[23.7, 34.8]]}
+{"qid": 14961, "query": "person walks to the stove to cook breakfast", "duration": 44.125, "vid": "OM2NF", "relevant_windows": [[34.1, 45.0]]}
+{"qid": 14962, "query": "person walks to cook at the oven", "duration": 44.125, "vid": "OM2NF", "relevant_windows": [[34.1, 45.0]]}
+{"qid": 14963, "query": "person puts on shoes", "duration": 44.125, "vid": "OM2NF", "relevant_windows": [[23.7, 34.8]]}
+{"qid": 14964, "query": "person begin sneezing", "duration": 29.8125, "vid": "ACAK4", "relevant_windows": [[18.7, 24.6]]}
+{"qid": 14965, "query": "the person takes a towel from a chair", "duration": 29.8125, "vid": "ACAK4", "relevant_windows": [[13.6, 22.1]]}
+{"qid": 14966, "query": "a person sits at a table working on their laptop", "duration": 29.8125, "vid": "ACAK4", "relevant_windows": [[0.0, 13.2]]}
+{"qid": 14967, "query": "person throwing a book", "duration": 18.3125, "vid": "8ASRQ", "relevant_windows": [[12.0, 17.0]]}
+{"qid": 14968, "query": "person opens a closet door", "duration": 30.625, "vid": "0F7LW", "relevant_windows": [[0.8, 8.1]]}
+{"qid": 14969, "query": "person takes down a toy laptop", "duration": 30.625, "vid": "0F7LW", "relevant_windows": [[12.6, 19.5]]}
+{"qid": 14970, "query": "person turns off the light", "duration": 30.625, "vid": "0F7LW", "relevant_windows": [[25.0, 31.0]]}
+{"qid": 14971, "query": "person turning off the light behind them", "duration": 30.625, "vid": "0F7LW", "relevant_windows": [[25.0, 31.0]]}
+{"qid": 14972, "query": "a person takes a laptop from a closet shelf", "duration": 30.625, "vid": "0F7LW", "relevant_windows": [[12.6, 19.5]]}
+{"qid": 14973, "query": "a person runs into the closet", "duration": 30.625, "vid": "0F7LW", "relevant_windows": [[0.0, 4.6]]}
+{"qid": 14974, "query": "person takes a laptop from the shelf", "duration": 30.625, "vid": "0F7LW", "relevant_windows": [[12.6, 19.5]]}
+{"qid": 14975, "query": "a person is cooking on a stove", "duration": 34.125, "vid": "W0QSB", "relevant_windows": [[0.0, 14.4]]}
+{"qid": 14976, "query": "person is awakening in bed by window", "duration": 23.8125, "vid": "GV40M", "relevant_windows": [[5.3, 11.8]]}
+{"qid": 14977, "query": "a person is awakening", "duration": 23.8125, "vid": "GV40M", "relevant_windows": [[5.3, 11.8]]}
+{"qid": 14978, "query": "person runs out of the study with a glass", "duration": 30.6875, "vid": "XBRO4", "relevant_windows": [[24.7, 30.1]]}
+{"qid": 14979, "query": "person run out of the room", "duration": 30.6875, "vid": "XBRO4", "relevant_windows": [[24.7, 30.1]]}
+{"qid": 14980, "query": "person they look out the window", "duration": 23.4375, "vid": "X06Z6", "relevant_windows": [[14.9, 24.0]]}
+{"qid": 14981, "query": "person takes a glass off of a table", "duration": 13.375, "vid": "QQMY8", "relevant_windows": [[6.3, 11.7]]}
+{"qid": 14982, "query": "the person turns on a light", "duration": 13.375, "vid": "QQMY8", "relevant_windows": [[0.8, 5.4]]}
+{"qid": 14983, "query": "person turns out the light in the closet", "duration": 13.375, "vid": "QQMY8", "relevant_windows": [[0.8, 5.4]]}
+{"qid": 14984, "query": "person turning on a light", "duration": 13.375, "vid": "QQMY8", "relevant_windows": [[0.8, 5.4]]}
+{"qid": 14985, "query": "person grabs a cup turns off the light", "duration": 13.375, "vid": "QQMY8", "relevant_windows": [[9.8, 14.0]]}
+{"qid": 14986, "query": "person put the laptop down", "duration": 27.3125, "vid": "N93LD", "relevant_windows": [[16.6, 27.9]]}
+{"qid": 14987, "query": "the person closes their laptop", "duration": 27.3125, "vid": "N93LD", "relevant_windows": [[16.0, 20.9]]}
+{"qid": 14988, "query": "a person is putting a book on the shelf", "duration": 30.875, "vid": "ZI2XH", "relevant_windows": [[12.1, 17.6]]}
+{"qid": 14989, "query": "another person is laughing in a doorway", "duration": 27.5, "vid": "M02OO", "relevant_windows": [[0.0, 4.9]]}
+{"qid": 14990, "query": "person takes a cup of coffee", "duration": 19.625, "vid": "FB3ZG", "relevant_windows": [[4.5, 9.2]]}
+{"qid": 14991, "query": "person talking on the phone", "duration": 102.0, "vid": "RF00I", "relevant_windows": [[18.4, 42.8]]}
+{"qid": 14992, "query": "person getting food out cooking the food on the table", "duration": 31.3125, "vid": "65M4K", "relevant_windows": [[20.5, 32.0]]}
+{"qid": 14993, "query": "person walking in the room open a refrigerator", "duration": 31.3125, "vid": "65M4K", "relevant_windows": [[0.0, 5.4]]}
+{"qid": 14994, "query": "a person is cooking at a stove", "duration": 31.3125, "vid": "65M4K", "relevant_windows": [[20.5, 32.0]]}
+{"qid": 14995, "query": "person holding a pillow opens the door", "duration": 30.875, "vid": "QTRIN", "relevant_windows": [[25.1, 32.0]]}
+{"qid": 14996, "query": "person opened a door", "duration": 30.875, "vid": "QTRIN", "relevant_windows": [[25.1, 32.0]]}
+{"qid": 14997, "query": "person begin to eat it", "duration": 32.1875, "vid": "DAA3F", "relevant_windows": [[24.8, 29.3]]}
+{"qid": 14998, "query": "a person is awakening in the bedroom by the window", "duration": 32.1875, "vid": "DAA3F", "relevant_windows": [[18.1, 27.2]]}
+{"qid": 14999, "query": "person began eating from it", "duration": 32.1875, "vid": "DAA3F", "relevant_windows": [[24.8, 29.3]]}
+{"qid": 15000, "query": "a person covered with a blanket awakens in bed", "duration": 32.1875, "vid": "DAA3F", "relevant_windows": [[18.1, 27.2]]}
+{"qid": 15001, "query": "person take some food", "duration": 32.1875, "vid": "DAA3F", "relevant_windows": [[11.5, 17.4]]}
+{"qid": 15002, "query": "person take a blanket from a chair", "duration": 31.375, "vid": "L8FFR", "relevant_windows": [[21.5, 31.1]]}
+{"qid": 15003, "query": "person eating an occasional bite from the pan", "duration": 28.0625, "vid": "TDGNE", "relevant_windows": [[3.5, 8.6]]}
+{"qid": 15004, "query": "person open the door to the refrigerator", "duration": 28.0625, "vid": "TDGNE", "relevant_windows": [[22.9, 29.0]]}
+{"qid": 15005, "query": "another person puts papers on a shelf", "duration": 30.8125, "vid": "IVP8Q", "relevant_windows": [[18.1, 32.0]]}
+{"qid": 15006, "query": "person sits down on a chair", "duration": 30.1875, "vid": "3O6KD", "relevant_windows": [[16.7, 31.0]]}
+{"qid": 15007, "query": "a person is sitting on a bed", "duration": 30.1875, "vid": "3O6KD", "relevant_windows": [[0.0, 10.0]]}
+{"qid": 15008, "query": "the person sits on the bed", "duration": 30.1875, "vid": "3O6KD", "relevant_windows": [[0.0, 10.0]]}
+{"qid": 15009, "query": "person begins putting their shoes on", "duration": 47.4375, "vid": "3TUUI", "relevant_windows": [[22.1, 34.2]]}
+{"qid": 15010, "query": "person closed the door", "duration": 29.875, "vid": "O3Y57", "relevant_windows": [[2.3, 9.0]]}
+{"qid": 15011, "query": "person they begin sneezing several times in succession", "duration": 29.875, "vid": "O3Y57", "relevant_windows": [[23.7, 31.0]]}
+{"qid": 15012, "query": "person they put the bag over their head", "duration": 29.875, "vid": "O3Y57", "relevant_windows": [[6.2, 13.1]]}
+{"qid": 15013, "query": "person closing the door to the room", "duration": 29.875, "vid": "O3Y57", "relevant_windows": [[2.3, 9.0]]}
+{"qid": 15014, "query": "the person takes a cup off the shelf", "duration": 22.625, "vid": "PIRMO", "relevant_windows": [[3.5, 8.6]]}
+{"qid": 15015, "query": "person drinking a glass of water the find a box", "duration": 22.625, "vid": "PIRMO", "relevant_windows": [[4.5, 11.2]]}
+{"qid": 15016, "query": "a person in a closet putting a blanket away", "duration": 22.625, "vid": "PIRMO", "relevant_windows": [[0.4, 7.7]]}
+{"qid": 15017, "query": "a person  putting a towel on a shelf", "duration": 22.625, "vid": "PIRMO", "relevant_windows": [[1.3, 8.9]]}
+{"qid": 15018, "query": "person takes a box off the shelf", "duration": 22.625, "vid": "PIRMO", "relevant_windows": [[10.7, 17.1]]}
+{"qid": 15019, "query": "a person in a garage is awakens on a sofa", "duration": 31.125, "vid": "A52N5", "relevant_windows": [[1.1, 9.1]]}
+{"qid": 15020, "query": "the person opens a book", "duration": 31.125, "vid": "A52N5", "relevant_windows": [[13.1, 20.6]]}
+{"qid": 15021, "query": "person opens the closet", "duration": 11.3125, "vid": "GLOMM", "relevant_windows": [[0.0, 4.0]]}
+{"qid": 15022, "query": "person they take a towel open the  window", "duration": 30.875, "vid": "5SAAB", "relevant_windows": [[12.5, 22.8]]}
+{"qid": 15023, "query": "person sitting down on the sofa", "duration": 30.875, "vid": "5SAAB", "relevant_windows": [[24.2, 32.0]]}
+{"qid": 15024, "query": "person puts a foot on the coffee table", "duration": 30.875, "vid": "5SAAB", "relevant_windows": [[4.8, 11.5]]}
+{"qid": 15025, "query": "person sits on the sofa", "duration": 30.875, "vid": "5SAAB", "relevant_windows": [[24.2, 32.0]]}
+{"qid": 15026, "query": "person eats some", "duration": 30.875, "vid": "5SAAB", "relevant_windows": [[27.2, 32.0]]}
+{"qid": 15027, "query": "person eating food", "duration": 30.875, "vid": "5SAAB", "relevant_windows": [[27.2, 32.0]]}
+{"qid": 15028, "query": "this person runs out of the room with their homework", "duration": 23.125, "vid": "3GA59", "relevant_windows": [[17.7, 23.3]]}
+{"qid": 15029, "query": "person they tidy up the table", "duration": 21.5625, "vid": "B8DL6", "relevant_windows": [[14.1, 22.0]]}
+{"qid": 15030, "query": "person starts tidying up a table", "duration": 21.5625, "vid": "B8DL6", "relevant_windows": [[14.1, 22.0]]}
+{"qid": 15031, "query": "the person begins tidying the area around the table", "duration": 21.5625, "vid": "B8DL6", "relevant_windows": [[14.1, 22.0]]}
+{"qid": 15032, "query": "a person is sitting at a desk as they eat", "duration": 17.25, "vid": "O8S0J", "relevant_windows": [[0.0, 8.4]]}
+{"qid": 15033, "query": "person turn off the light", "duration": 30.125, "vid": "3YQE2", "relevant_windows": [[24.7, 31.0]]}
+{"qid": 15034, "query": "person starts sneezing", "duration": 30.125, "vid": "3YQE2", "relevant_windows": [[17.8, 29.6]]}
+{"qid": 15035, "query": "person turns off the lights", "duration": 30.125, "vid": "3YQE2", "relevant_windows": [[24.7, 31.0]]}
+{"qid": 15036, "query": "a person throws a blanket on the sofa", "duration": 31.0625, "vid": "0WLCJ", "relevant_windows": [[1.8, 7.2]]}
+{"qid": 15037, "query": "person throws blanket onto couch", "duration": 31.0625, "vid": "0WLCJ", "relevant_windows": [[1.8, 7.2]]}
+{"qid": 15038, "query": "person closes the door", "duration": 30.625, "vid": "UNGPY", "relevant_windows": [[14.6, 20.2]]}
+{"qid": 15039, "query": "a person awakens in their bedroom snuggling a pillow", "duration": 37.5625, "vid": "MKDCU", "relevant_windows": [[0.0, 7.8]]}
+{"qid": 15040, "query": "a person is sneezing into the mirror", "duration": 8.625, "vid": "OLSMC", "relevant_windows": [[0.0, 4.1]]}
+{"qid": 15041, "query": "person another works on a laptop", "duration": 31.6875, "vid": "3SKPS", "relevant_windows": [[17.6, 33.0]]}
+{"qid": 15042, "query": "a second person is working on their laptop", "duration": 31.6875, "vid": "3SKPS", "relevant_windows": [[17.6, 33.0]]}
+{"qid": 15043, "query": "the person is undressing in front of a sink", "duration": 30.375, "vid": "L8RW8", "relevant_windows": [[0.0, 3.5]]}
+{"qid": 15044, "query": "a person undresses", "duration": 30.375, "vid": "L8RW8", "relevant_windows": [[0.0, 3.5]]}
+{"qid": 15045, "query": "one person runs into the entryway", "duration": 18.0625, "vid": "1TAMK", "relevant_windows": [[2.8, 8.0]]}
+{"qid": 15046, "query": "a person is opening a door", "duration": 18.0625, "vid": "1TAMK", "relevant_windows": [[3.2, 9.1]]}
+{"qid": 15047, "query": "person leaves closing door behind them", "duration": 27.5, "vid": "C1DK7", "relevant_windows": [[22.5, 28.0]]}
+{"qid": 15048, "query": "person opens door", "duration": 27.5, "vid": "C1DK7", "relevant_windows": [[20.6, 25.9]]}
+{"qid": 15049, "query": "person closing the door", "duration": 27.5, "vid": "C1DK7", "relevant_windows": [[22.5, 28.0]]}
+{"qid": 15050, "query": "person opens a door", "duration": 27.5, "vid": "C1DK7", "relevant_windows": [[20.6, 25.9]]}
+{"qid": 15051, "query": "a person leaves their phone on a closed laptop", "duration": 27.5, "vid": "C1DK7", "relevant_windows": [[4.2, 10.2]]}
+{"qid": 15052, "query": "a person is sitting by the stairs eating some food", "duration": 22.0, "vid": "QCIV0", "relevant_windows": [[0.0, 7.7]]}
+{"qid": 15053, "query": "person turn on the light", "duration": 22.0, "vid": "QCIV0", "relevant_windows": [[15.2, 21.0]]}
+{"qid": 15054, "query": "person turn on a light", "duration": 22.0, "vid": "QCIV0", "relevant_windows": [[15.2, 21.0]]}
+{"qid": 15055, "query": "a person sitting on couch turns on the tv", "duration": 28.4375, "vid": "YMGGV", "relevant_windows": [[0.0, 5.7]]}
+{"qid": 15056, "query": "person closes the same window", "duration": 34.3125, "vid": "VGTX8", "relevant_windows": [[29.3, 35.0]]}
+{"qid": 15057, "query": "person turned the lights on", "duration": 21.75, "vid": "U9NI5", "relevant_windows": [[11.3, 16.6]]}
+{"qid": 15058, "query": "a person is standing in the kitchen eating a sandwich", "duration": 21.75, "vid": "U9NI5", "relevant_windows": [[13.0, 22.3]]}
+{"qid": 15059, "query": "person watches themselves eat", "duration": 21.75, "vid": "U9NI5", "relevant_windows": [[0.0, 5.1]]}
+{"qid": 15060, "query": "person drinking from a cup", "duration": 21.75, "vid": "U9NI5", "relevant_windows": [[3.3, 11.2]]}
+{"qid": 15061, "query": "the person was eating a sandwich", "duration": 21.75, "vid": "U9NI5", "relevant_windows": [[13.0, 22.3]]}
+{"qid": 15062, "query": "person the runs to a mirror on the wall", "duration": 21.75, "vid": "U9NI5", "relevant_windows": [[9.4, 16.5]]}
+{"qid": 15063, "query": "a person is sneezing on a dusty book", "duration": 31.5625, "vid": "CSQLJ", "relevant_windows": [[1.8, 7.2]]}
+{"qid": 15064, "query": "another person stands by them smiling", "duration": 31.125, "vid": "V0WK7", "relevant_windows": [[6.1, 16.1]]}
+{"qid": 15065, "query": "person they start throwing shoes out of the way", "duration": 29.8125, "vid": "1XOQ8", "relevant_windows": [[1.1, 6.2]]}
+{"qid": 15066, "query": "a person takes a book from a bed", "duration": 29.75, "vid": "ZIU9C", "relevant_windows": [[0.0, 5.0]]}
+{"qid": 15067, "query": "a person takes a book off of the bed", "duration": 29.75, "vid": "ZIU9C", "relevant_windows": [[0.0, 5.0]]}
+{"qid": 15068, "query": "person puts it on the table", "duration": 29.75, "vid": "ZIU9C", "relevant_windows": [[9.8, 15.7]]}
+{"qid": 15069, "query": "person open the door", "duration": 29.75, "vid": "ZIU9C", "relevant_windows": [[14.1, 23.0]]}
+{"qid": 15070, "query": "the person opens the door", "duration": 29.75, "vid": "ZIU9C", "relevant_windows": [[14.1, 23.0]]}
+{"qid": 15071, "query": "a person turns on their lights", "duration": 33.4375, "vid": "VJVHM", "relevant_windows": [[0.0, 8.0]]}
+{"qid": 15072, "query": "the person turns on a light", "duration": 33.4375, "vid": "VJVHM", "relevant_windows": [[0.0, 8.0]]}
+{"qid": 15073, "query": "person closing the door to it behind them", "duration": 27.375, "vid": "G2AMK", "relevant_windows": [[24.0, 28.0]]}
+{"qid": 15074, "query": "the person closes the laptop", "duration": 28.125, "vid": "TAQ25", "relevant_windows": [[11.6, 17.7]]}
+{"qid": 15075, "query": "the person closes the laptop screen", "duration": 28.125, "vid": "TAQ25", "relevant_windows": [[11.6, 17.7]]}
+{"qid": 15076, "query": "person smiling at their laptop", "duration": 28.125, "vid": "TAQ25", "relevant_windows": [[4.3, 16.5]]}
+{"qid": 15077, "query": "person they fix their hair", "duration": 33.0625, "vid": "A9YQJ", "relevant_windows": [[22.8, 34.0]]}
+{"qid": 15078, "query": "person fixes their hair", "duration": 33.0625, "vid": "A9YQJ", "relevant_windows": [[22.8, 34.0]]}
+{"qid": 15079, "query": "person start fixing their hair", "duration": 33.0625, "vid": "A9YQJ", "relevant_windows": [[22.8, 34.0]]}
+{"qid": 15080, "query": "person closing a door", "duration": 31.5, "vid": "VRY89", "relevant_windows": [[26.3, 32.0]]}
+{"qid": 15081, "query": "person they close the door behind them", "duration": 31.5, "vid": "VRY89", "relevant_windows": [[26.3, 32.0]]}
+{"qid": 15082, "query": "person closes a door", "duration": 31.5, "vid": "VRY89", "relevant_windows": [[26.3, 32.0]]}
+{"qid": 15083, "query": "a person opens a bag", "duration": 28.25, "vid": "268ET", "relevant_windows": [[0.0, 9.7]]}
+{"qid": 15084, "query": "person they are smiling at the camera", "duration": 31.5625, "vid": "GADLP", "relevant_windows": [[23.5, 32.0]]}
+{"qid": 15085, "query": "person opens another door", "duration": 31.25, "vid": "9GMHF", "relevant_windows": [[12.8, 18.7]]}
+{"qid": 15086, "query": "the person opens the door", "duration": 31.25, "vid": "9GMHF", "relevant_windows": [[12.8, 18.7]]}
+{"qid": 15087, "query": "person takes out a broom", "duration": 31.25, "vid": "9GMHF", "relevant_windows": [[14.3, 19.9]]}
+{"qid": 15088, "query": "person begins walking to the doorway", "duration": 31.125, "vid": "6VUKN", "relevant_windows": [[24.2, 31.1]]}
+{"qid": 15089, "query": "person throw their shoes", "duration": 30.875, "vid": "FEWUR", "relevant_windows": [[21.2, 31.4]]}
+{"qid": 15090, "query": "person takes off their shoes", "duration": 30.875, "vid": "FEWUR", "relevant_windows": [[21.4, 31.2]]}
+{"qid": 15091, "query": "the person is also eating some food", "duration": 28.875, "vid": "MSW4E", "relevant_windows": [[10.8, 19.3]]}
+{"qid": 15092, "query": "person walks through a doorway", "duration": 33.8125, "vid": "XHQT1", "relevant_windows": [[26.4, 34.2]]}
+{"qid": 15093, "query": "person opens a door", "duration": 33.8125, "vid": "XHQT1", "relevant_windows": [[27.7, 33.4]]}
+{"qid": 15094, "query": "person begins to make a sandwich", "duration": 39.0, "vid": "J8SHW", "relevant_windows": [[30.9, 40.0]]}
+{"qid": 15095, "query": "person they are holding open a box", "duration": 30.0625, "vid": "DP7DG", "relevant_windows": [[0.0, 4.1]]}
+{"qid": 15096, "query": "the person is holding a box of dishes", "duration": 30.0625, "vid": "DP7DG", "relevant_windows": [[1.0, 7.7]]}
+{"qid": 15097, "query": "another person is looking out the window", "duration": 30.9375, "vid": "CYCEV", "relevant_windows": [[0.0, 4.8]]}
+{"qid": 15098, "query": "person holding some food", "duration": 30.9375, "vid": "CYCEV", "relevant_windows": [[0.0, 5.9]]}
+{"qid": 15099, "query": "the person holding the tray drinks from the cup", "duration": 30.9375, "vid": "CYCEV", "relevant_windows": [[2.3, 9.7]]}
+{"qid": 15100, "query": "person fixing hair", "duration": 30.625, "vid": "T8DK4", "relevant_windows": [[16.3, 23.3]]}
+{"qid": 15101, "query": "a person is sitting on the floor smiling", "duration": 30.625, "vid": "T8DK4", "relevant_windows": [[0.0, 6.3]]}
+{"qid": 15102, "query": "the person laughs", "duration": 30.625, "vid": "T8DK4", "relevant_windows": [[0.0, 10.5]]}
+{"qid": 15103, "query": "person puts the mirror on the shelf", "duration": 30.625, "vid": "T8DK4", "relevant_windows": [[15.7, 26.7]]}
+{"qid": 15104, "query": "person putting it on the shelf", "duration": 30.625, "vid": "T8DK4", "relevant_windows": [[15.7, 26.7]]}
+{"qid": 15105, "query": "person they are eating a sandwich", "duration": 34.375, "vid": "QU2WL", "relevant_windows": [[12.0, 19.1]]}
+{"qid": 15106, "query": "person starts eating", "duration": 34.375, "vid": "QU2WL", "relevant_windows": [[12.0, 19.1]]}
+{"qid": 15107, "query": "the person opens the refrigerator door", "duration": 17.875, "vid": "78R4Y", "relevant_windows": [[0.4, 5.4]]}
+{"qid": 15108, "query": "a person is putting away groceries in refrigerator", "duration": 17.875, "vid": "78R4Y", "relevant_windows": [[1.6, 6.7]]}
+{"qid": 15109, "query": "person closing the door", "duration": 17.875, "vid": "78R4Y", "relevant_windows": [[12.0, 17.0]]}
+{"qid": 15110, "query": "a person open the refrigerator", "duration": 17.875, "vid": "78R4Y", "relevant_windows": [[0.0, 4.7]]}
+{"qid": 15111, "query": "person closing its door", "duration": 17.875, "vid": "78R4Y", "relevant_windows": [[12.0, 17.0]]}
+{"qid": 15112, "query": "person turning the light off", "duration": 28.0625, "vid": "BMPEV", "relevant_windows": [[16.6, 25.2]]}
+{"qid": 15113, "query": "a person is sneezing into a bag of groceries", "duration": 28.0625, "vid": "BMPEV", "relevant_windows": [[8.5, 16.8]]}
+{"qid": 15114, "query": "person turning off a light", "duration": 28.0625, "vid": "BMPEV", "relevant_windows": [[16.6, 25.2]]}
+{"qid": 15115, "query": "person they sit down on the sofa", "duration": 27.0, "vid": "61WIS", "relevant_windows": [[0.0, 5.6]]}
+{"qid": 15116, "query": "person stand up", "duration": 27.0, "vid": "61WIS", "relevant_windows": [[20.2, 25.5]]}
+{"qid": 15117, "query": "person also putting a pillow onto the ground", "duration": 27.0, "vid": "61WIS", "relevant_windows": [[9.6, 16.1]]}
+{"qid": 15118, "query": "a person with a laptop sits on a sofa", "duration": 27.0, "vid": "61WIS", "relevant_windows": [[0.0, 5.6]]}
+{"qid": 15119, "query": "person they take a pillow", "duration": 27.0, "vid": "61WIS", "relevant_windows": [[10.1, 16.1]]}
+{"qid": 15120, "query": "another person is sneezing into a blanket", "duration": 32.1875, "vid": "E7CJ0", "relevant_windows": [[15.9, 24.7]]}
+{"qid": 15121, "query": "the person throws the blanket on the floor", "duration": 31.1875, "vid": "13IJA", "relevant_windows": [[5.9, 10.9]]}
+{"qid": 15122, "query": "the person is sitting down holding a blanket", "duration": 31.1875, "vid": "13IJA", "relevant_windows": [[0.0, 7.0]]}
+{"qid": 15123, "query": "a person is putting some groceries on a table", "duration": 30.25, "vid": "FHXKQ", "relevant_windows": [[0.0, 8.6]]}
+{"qid": 15124, "query": "a person is walking past the doorway", "duration": 33.25, "vid": "9SZG2", "relevant_windows": [[0.0, 3.7]]}
+{"qid": 15125, "query": "person opens a laptop", "duration": 23.5625, "vid": "03M0K", "relevant_windows": [[7.5, 13.9]]}
+{"qid": 15126, "query": "a person is dressing", "duration": 23.5625, "vid": "03M0K", "relevant_windows": [[0.2, 9.9]]}
+{"qid": 15127, "query": "the person opens their laptop", "duration": 23.5625, "vid": "03M0K", "relevant_windows": [[7.5, 13.9]]}
+{"qid": 15128, "query": "person they stand up", "duration": 18.9375, "vid": "KRRBE", "relevant_windows": [[5.0, 11.1]]}
+{"qid": 15129, "query": "person walk through a doorway", "duration": 18.9375, "vid": "KRRBE", "relevant_windows": [[11.6, 18.5]]}
+{"qid": 15130, "query": "a person is sitting on a chair using a tablet", "duration": 18.9375, "vid": "KRRBE", "relevant_windows": [[0.0, 8.6]]}
+{"qid": 15131, "query": "a person is looking at a book", "duration": 18.9375, "vid": "KRRBE", "relevant_windows": [[0.0, 9.3]]}
+{"qid": 15132, "query": "person looking at a picture", "duration": 18.9375, "vid": "KRRBE", "relevant_windows": [[0.0, 8.9]]}
+{"qid": 15133, "query": "a person is sitting on a chair holding books", "duration": 35.5, "vid": "CMI7U", "relevant_windows": [[0.0, 5.2]]}
+{"qid": 15134, "query": "person puts the books on a shelf", "duration": 35.5, "vid": "CMI7U", "relevant_windows": [[14.6, 21.3]]}
+{"qid": 15135, "query": "person the putting books on a shelf in the hallway", "duration": 35.5, "vid": "CMI7U", "relevant_windows": [[14.6, 21.3]]}
+{"qid": 15136, "query": "a person takes a book off a shelf", "duration": 25.4375, "vid": "QCVZN", "relevant_windows": [[6.2, 12.0]]}
+{"qid": 15137, "query": "person works on a burnt-out light", "duration": 31.75, "vid": "3JSX7", "relevant_windows": [[7.2, 15.6]]}
+{"qid": 15138, "query": "person turns on a light", "duration": 31.75, "vid": "3JSX7", "relevant_windows": [[7.2, 15.6]]}
+{"qid": 15139, "query": "person throwing them on the floor", "duration": 30.6875, "vid": "P7TT1", "relevant_windows": [[1.4, 6.6]]}
+{"qid": 15140, "query": "a person puts a box on a bed", "duration": 9.5, "vid": "013SD", "relevant_windows": [[0.0, 4.3]]}
+{"qid": 15141, "query": "person turning off a light", "duration": 9.5, "vid": "013SD", "relevant_windows": [[5.8, 10.0]]}
+{"qid": 15142, "query": "person they turned around to turn the bedroom light off", "duration": 9.5, "vid": "013SD", "relevant_windows": [[5.8, 10.0]]}
+{"qid": 15143, "query": "one person opens a bag", "duration": 28.3125, "vid": "1FX8Q", "relevant_windows": [[0.0, 5.9]]}
+{"qid": 15144, "query": "person throws it onto the floor", "duration": 30.875, "vid": "WT59C", "relevant_windows": [[17.6, 23.1]]}
+{"qid": 15145, "query": "person throwing a broom on the floor", "duration": 30.875, "vid": "WT59C", "relevant_windows": [[17.6, 23.1]]}
+{"qid": 15146, "query": "a person laughs", "duration": 31.6875, "vid": "SOTQ1", "relevant_windows": [[25.9, 31.3]]}
+{"qid": 15147, "query": "a person takes a box of food from the table", "duration": 32.1875, "vid": "VT64S", "relevant_windows": [[3.5, 10.0]]}
+{"qid": 15148, "query": "a person is eating something from a bag", "duration": 30.5625, "vid": "KNGUT", "relevant_windows": [[24.0, 31.0]]}
+{"qid": 15149, "query": "a person throws some clothes into a box", "duration": 46.6875, "vid": "YQOPM", "relevant_windows": [[4.8, 18.1]]}
+{"qid": 15150, "query": "person throws the pair of shoes into the corner", "duration": 27.9375, "vid": "VIDIE", "relevant_windows": [[18.0, 25.9]]}
+{"qid": 15151, "query": "a person washes their hands in a bathroom", "duration": 29.8125, "vid": "44T8B", "relevant_windows": [[0.0, 3.5]]}
+{"qid": 15152, "query": "person takes the medicine", "duration": 35.5625, "vid": "CZPU9", "relevant_windows": [[18.6, 24.9]]}
+{"qid": 15153, "query": "the person put a towel on the doorknob", "duration": 35.5625, "vid": "CZPU9", "relevant_windows": [[0.0, 5.2]]}
+{"qid": 15154, "query": "person closes the cabinet door", "duration": 35.5625, "vid": "CZPU9", "relevant_windows": [[25.5, 30.4]]}
+{"qid": 15155, "query": "a person is putting a towel on the doorknob", "duration": 35.5625, "vid": "CZPU9", "relevant_windows": [[0.0, 5.2]]}
+{"qid": 15156, "query": "person opens a cabinet", "duration": 35.5625, "vid": "CZPU9", "relevant_windows": [[13.6, 29.7]]}
+{"qid": 15157, "query": "person started undressing", "duration": 35.5625, "vid": "CZPU9", "relevant_windows": [[6.0, 13.7]]}
+{"qid": 15158, "query": "person takes out a box of medicine", "duration": 35.5625, "vid": "CZPU9", "relevant_windows": [[18.6, 24.9]]}
+{"qid": 15159, "query": "a person puts clothes on a doorknob", "duration": 35.5625, "vid": "CZPU9", "relevant_windows": [[0.0, 11.6]]}
+{"qid": 15160, "query": "person he undresses", "duration": 35.5625, "vid": "CZPU9", "relevant_windows": [[6.0, 13.7]]}
+{"qid": 15161, "query": "person take a small towel", "duration": 27.75, "vid": "A0T30", "relevant_windows": [[7.6, 15.2]]}
+{"qid": 15162, "query": "person they take a towel from a table", "duration": 27.75, "vid": "A0T30", "relevant_windows": [[7.6, 15.2]]}
+{"qid": 15163, "query": "person he sits down in a chair", "duration": 32.1875, "vid": "D52S5", "relevant_windows": [[16.4, 23.6]]}
+{"qid": 15164, "query": "person takes a seat at the table", "duration": 32.1875, "vid": "D52S5", "relevant_windows": [[6.2, 12.9]]}
+{"qid": 15165, "query": "the person reaches behind the person to open the cabinet", "duration": 32.1875, "vid": "D52S5", "relevant_windows": [[25.2, 33.0]]}
+{"qid": 15166, "query": "person grabs a drink from a bottle", "duration": 32.1875, "vid": "D52S5", "relevant_windows": [[21.4, 33.0]]}
+{"qid": 15167, "query": "person eats some more food", "duration": 32.1875, "vid": "D52S5", "relevant_windows": [[6.2, 12.9]]}
+{"qid": 15168, "query": "person eats it", "duration": 32.1875, "vid": "D52S5", "relevant_windows": [[6.2, 12.9]]}
+{"qid": 15169, "query": "a person awakens in a closet snuggling their pillow", "duration": 24.1875, "vid": "1DGC9", "relevant_windows": [[0.0, 7.8]]}
+{"qid": 15170, "query": "person they stand up", "duration": 24.1875, "vid": "1DGC9", "relevant_windows": [[9.1, 14.1]]}
+{"qid": 15171, "query": "person close the door behind them", "duration": 24.1875, "vid": "1DGC9", "relevant_windows": [[18.6, 25.0]]}
+{"qid": 15172, "query": "a person awakens in the bathroom", "duration": 24.1875, "vid": "1DGC9", "relevant_windows": [[0.0, 7.8]]}
+{"qid": 15173, "query": "a person is in the hallway throwing a pillow", "duration": 31.0625, "vid": "9D2T4", "relevant_windows": [[4.2, 9.6]]}
+{"qid": 15174, "query": "person they drink water from the glass", "duration": 30.875, "vid": "QH3FK", "relevant_windows": [[20.9, 32.0]]}
+{"qid": 15175, "query": "person throwing their clothes on the sofa", "duration": 23.6875, "vid": "RNLTR", "relevant_windows": [[7.3, 13.5]]}
+{"qid": 15176, "query": "a person is laughing at a television", "duration": 30.9375, "vid": "W2NHA", "relevant_windows": [[0.0, 9.6]]}
+{"qid": 15177, "query": "person forth from laughter", "duration": 30.9375, "vid": "W2NHA", "relevant_windows": [[0.0, 9.6]]}
+{"qid": 15178, "query": "a person is seen laughing", "duration": 30.9375, "vid": "W2NHA", "relevant_windows": [[0.0, 9.6]]}
+{"qid": 15179, "query": "the person takes out their phone", "duration": 31.75, "vid": "2443O", "relevant_windows": [[10.7, 18.0]]}
+{"qid": 15180, "query": "person takes out a phone", "duration": 31.75, "vid": "2443O", "relevant_windows": [[10.7, 18.0]]}
+{"qid": 15181, "query": "person takes a book off of a shelf", "duration": 26.9375, "vid": "SVO89", "relevant_windows": [[14.7, 21.2]]}
+{"qid": 15182, "query": "person closes the door behind him", "duration": 26.9375, "vid": "SVO89", "relevant_windows": [[19.0, 25.6]]}
+{"qid": 15183, "query": "another person is standing their smiling", "duration": 31.0625, "vid": "CP07P", "relevant_windows": [[1.7, 11.8]]}
+{"qid": 15184, "query": "a person runs in through their doorway", "duration": 31.125, "vid": "LGS4C", "relevant_windows": [[0.0, 11.3]]}
+{"qid": 15185, "query": "person slightly closes the door", "duration": 31.125, "vid": "LGS4C", "relevant_windows": [[15.8, 24.5]]}
+{"qid": 15186, "query": "the person is running towards a room", "duration": 31.125, "vid": "LGS4C", "relevant_windows": [[0.0, 11.3]]}
+{"qid": 15187, "query": "a person is running into the room holding their phone", "duration": 31.125, "vid": "LGS4C", "relevant_windows": [[0.0, 11.3]]}
+{"qid": 15188, "query": "another person is tidying the table", "duration": 31.0, "vid": "5AE54", "relevant_windows": [[17.1, 28.0]]}
+{"qid": 15189, "query": "lies on the bed when a second person walks in", "duration": 31.0, "vid": "5AE54", "relevant_windows": [[8.4, 16.6]]}
+{"qid": 15190, "query": "a person is running to the phone", "duration": 31.0, "vid": "5AE54", "relevant_windows": [[0.0, 8.5]]}
+{"qid": 15191, "query": "the person opens the bathroom cabinet", "duration": 33.0625, "vid": "47D1Y", "relevant_windows": [[0.3, 6.3]]}
+{"qid": 15192, "query": "person opens the refrigerator", "duration": 27.9375, "vid": "JJON5", "relevant_windows": [[6.7, 14.7]]}
+{"qid": 15193, "query": "the person walks through a doorway to the kitchen", "duration": 27.9375, "vid": "JJON5", "relevant_windows": [[3.0, 8.3]]}
+{"qid": 15194, "query": "that same person eats some chips", "duration": 27.5, "vid": "H1XBH", "relevant_windows": [[8.3, 14.7]]}
+{"qid": 15195, "query": "person begins to eat some food", "duration": 27.5, "vid": "H1XBH", "relevant_windows": [[8.3, 14.7]]}
+{"qid": 15196, "query": "a person is holding a pillow", "duration": 27.5, "vid": "H1XBH", "relevant_windows": [[0.0, 6.8]]}
+{"qid": 15197, "query": "a person is putting a pillow on a sofa", "duration": 27.5, "vid": "H1XBH", "relevant_windows": [[1.2, 7.2]]}
+{"qid": 15198, "query": "person holding a broom", "duration": 30.1875, "vid": "PE41X", "relevant_windows": [[0.0, 7.4]]}
+{"qid": 15199, "query": "a person is sitting on a chair holding a broom", "duration": 30.1875, "vid": "PE41X", "relevant_windows": [[0.0, 7.4]]}
+{"qid": 15200, "query": "a person is in their kitchen sitting on a chair", "duration": 30.1875, "vid": "PE41X", "relevant_windows": [[28.1, 31.0]]}
+{"qid": 15201, "query": "a person is undressing", "duration": 32.25, "vid": "3X52E", "relevant_windows": [[0.0, 2.9]]}
+{"qid": 15202, "query": "person throw it on the floor", "duration": 32.25, "vid": "3X52E", "relevant_windows": [[0.0, 3.8]]}
+{"qid": 15203, "query": "person they start throwing a blanket on the ground", "duration": 32.25, "vid": "3X52E", "relevant_windows": [[14.6, 19.8]]}
+{"qid": 15204, "query": "person pouring it into a cup to make some coffee", "duration": 30.8125, "vid": "NWGVT", "relevant_windows": [[1.2, 13.8]]}
+{"qid": 15205, "query": "a person puts a box of groceries onto the table", "duration": 30.5625, "vid": "EIKUN", "relevant_windows": [[5.5, 11.7]]}
+{"qid": 15206, "query": "person snuggling a big fluffy blanket", "duration": 26.1875, "vid": "MU54W", "relevant_windows": [[17.9, 27.0]]}
+{"qid": 15207, "query": "a person is snuggling with a blanket", "duration": 26.1875, "vid": "MU54W", "relevant_windows": [[17.9, 27.0]]}
+{"qid": 15208, "query": "a person is holding a vacuum", "duration": 26.1875, "vid": "MU54W", "relevant_windows": [[0.0, 12.0]]}
+{"qid": 15209, "query": "person puts a pillow on the bench", "duration": 34.9375, "vid": "58VZI", "relevant_windows": [[16.5, 23.4]]}
+{"qid": 15210, "query": "person drinking a glass of water", "duration": 34.9375, "vid": "58VZI", "relevant_windows": [[0.8, 14.0]]}
+{"qid": 15211, "query": "person begin sneezing", "duration": 33.375, "vid": "P2UBC", "relevant_windows": [[5.7, 13.7]]}
+{"qid": 15212, "query": "person turn off the light", "duration": 33.375, "vid": "P2UBC", "relevant_windows": [[28.8, 33.5]]}
+{"qid": 15213, "query": "person proceed to put on a pair of shoes", "duration": 33.375, "vid": "P2UBC", "relevant_windows": [[4.5, 13.0]]}
+{"qid": 15214, "query": "person they put on their shoes", "duration": 33.375, "vid": "P2UBC", "relevant_windows": [[4.5, 13.0]]}
+{"qid": 15215, "query": "person turning off a light", "duration": 33.375, "vid": "P2UBC", "relevant_windows": [[28.8, 33.5]]}
+{"qid": 15216, "query": "one person who is lying down awakens", "duration": 27.125, "vid": "AFAXI", "relevant_windows": [[9.2, 19.3]]}
+{"qid": 15217, "query": "person sitting on the bed", "duration": 27.125, "vid": "AFAXI", "relevant_windows": [[15.7, 28.0]]}
+{"qid": 15218, "query": "a person is lying on a bed they sit up", "duration": 27.125, "vid": "AFAXI", "relevant_windows": [[15.7, 28.0]]}
+{"qid": 15219, "query": "person eating a sandwich", "duration": 30.9375, "vid": "WT2C0", "relevant_windows": [[21.6, 32.0]]}
+{"qid": 15220, "query": "person use it to wipe the sweat from their forehead", "duration": 30.9375, "vid": "WT2C0", "relevant_windows": [[21.6, 32.0]]}
+{"qid": 15221, "query": "person is sitting down eating food", "duration": 30.8125, "vid": "1UXVA", "relevant_windows": [[8.3, 16.7]]}
+{"qid": 15222, "query": "the person drinks a glass of water", "duration": 30.8125, "vid": "1UXVA", "relevant_windows": [[15.0, 22.6]]}
+{"qid": 15223, "query": "person they open a box", "duration": 22.875, "vid": "D1VWG", "relevant_windows": [[4.3, 10.0]]}
+{"qid": 15224, "query": "person cooking a piece of meat", "duration": 43.0625, "vid": "UB3KO", "relevant_windows": [[4.2, 11.2]]}
+{"qid": 15225, "query": "person opens their laptop", "duration": 43.0625, "vid": "UB3KO", "relevant_windows": [[20.8, 26.3]]}
+{"qid": 15226, "query": "person cooks something", "duration": 43.0625, "vid": "UB3KO", "relevant_windows": [[4.2, 11.2]]}
+{"qid": 15227, "query": "person puts some clothes on it", "duration": 30.9375, "vid": "DJG7A", "relevant_windows": [[1.9, 11.9]]}
+{"qid": 15228, "query": "a person holds an orange book", "duration": 32.5, "vid": "2FPB3", "relevant_windows": [[0.0, 13.3]]}
+{"qid": 15229, "query": "person put the book down", "duration": 32.5, "vid": "2FPB3", "relevant_windows": [[8.0, 15.8]]}
+{"qid": 15230, "query": "a person is sneezing into a book", "duration": 32.5, "vid": "2FPB3", "relevant_windows": [[3.2, 10.8]]}
+{"qid": 15231, "query": "a person eats a sandwich in the kitchen", "duration": 29.625, "vid": "71QKB", "relevant_windows": [[0.0, 3.6]]}
+{"qid": 15232, "query": "a person eating a sandwich", "duration": 29.625, "vid": "71QKB", "relevant_windows": [[0.0, 3.6]]}
+{"qid": 15233, "query": "another person walks through the nearest doorway", "duration": 28.9375, "vid": "XKLW2", "relevant_windows": [[8.2, 13.7]]}
+{"qid": 15234, "query": "a person is eating something from a box", "duration": 35.3125, "vid": "J39ZC", "relevant_windows": [[25.8, 36.0]]}
+{"qid": 15235, "query": "person someone is standing by a door eating something", "duration": 35.3125, "vid": "J39ZC", "relevant_windows": [[25.8, 36.0]]}
+{"qid": 15236, "query": "person open a book", "duration": 30.5625, "vid": "RH2YW", "relevant_windows": [[12.1, 18.3]]}
+{"qid": 15237, "query": "person eating a sandwich", "duration": 30.5625, "vid": "RH2YW", "relevant_windows": [[2.3, 8.5]]}
+{"qid": 15238, "query": "a person standing next to a table eats a sandwich", "duration": 30.5625, "vid": "RH2YW", "relevant_windows": [[2.3, 8.5]]}
+{"qid": 15239, "query": "person he is cooking", "duration": 25.3125, "vid": "94ICP", "relevant_windows": [[0.0, 7.2]]}
+{"qid": 15240, "query": "a person cooks on a stove", "duration": 25.3125, "vid": "94ICP", "relevant_windows": [[0.0, 7.2]]}
+{"qid": 15241, "query": "a person is undressing in the basement", "duration": 30.25, "vid": "APVAD", "relevant_windows": [[0.0, 13.8]]}
+{"qid": 15242, "query": "person runs out", "duration": 30.25, "vid": "APVAD", "relevant_windows": [[17.1, 31.0]]}
+{"qid": 15243, "query": "person runs out the door", "duration": 30.25, "vid": "APVAD", "relevant_windows": [[17.1, 31.0]]}
+{"qid": 15244, "query": "person drinking a cup of coffee", "duration": 30.5625, "vid": "9TPP3", "relevant_windows": [[0.0, 8.4]]}
+{"qid": 15245, "query": "person throws a towel on the floor", "duration": 22.4375, "vid": "H032R", "relevant_windows": [[0.8, 6.8]]}
+{"qid": 15246, "query": "person sitting down on a pillow in the bed", "duration": 22.4375, "vid": "H032R", "relevant_windows": [[12.4, 23.0]]}
+{"qid": 15247, "query": "person fixing a light", "duration": 24.125, "vid": "Z0IE9", "relevant_windows": [[12.2, 18.5]]}
+{"qid": 15248, "query": "a person is fixing a light in a room", "duration": 24.125, "vid": "Z0IE9", "relevant_windows": [[12.2, 18.5]]}
+{"qid": 15249, "query": "person when he turns it the light turns on brightly", "duration": 24.125, "vid": "Z0IE9", "relevant_windows": [[12.2, 18.5]]}
+{"qid": 15250, "query": "person drinks a glass of water", "duration": 30.4375, "vid": "DIB6D", "relevant_windows": [[18.9, 24.4]]}
+{"qid": 15251, "query": "a person in the bathroom is smiling in the mirror", "duration": 30.4375, "vid": "DIB6D", "relevant_windows": [[9.2, 18.1]]}
+{"qid": 15252, "query": "a person enters the front door holding a bag", "duration": 30.8125, "vid": "YEHFQ", "relevant_windows": [[8.1, 22.6]]}
+{"qid": 15253, "query": "person eating a sandwich", "duration": 30.8125, "vid": "YEHFQ", "relevant_windows": [[20.7, 32.0]]}
+{"qid": 15254, "query": "the person starts eating something", "duration": 30.8125, "vid": "YEHFQ", "relevant_windows": [[20.7, 32.0]]}
+{"qid": 15255, "query": "another person turns on a light", "duration": 29.9375, "vid": "CDNV7", "relevant_windows": [[18.4, 23.8]]}
+{"qid": 15256, "query": "person turns on the light", "duration": 29.9375, "vid": "CDNV7", "relevant_windows": [[18.4, 23.8]]}
+{"qid": 15257, "query": "person sits down in a chair", "duration": 50.4375, "vid": "UQPO0", "relevant_windows": [[39.0, 49.3]]}
+{"qid": 15258, "query": "person they sit in a nearby chair", "duration": 50.4375, "vid": "UQPO0", "relevant_windows": [[39.0, 49.3]]}
+{"qid": 15259, "query": "a person sitting in a chair takes off their shoes", "duration": 31.8125, "vid": "JRSPH", "relevant_windows": [[0.0, 14.2]]}
+{"qid": 15260, "query": "person drinking a glass of water", "duration": 30.1875, "vid": "6VUIO", "relevant_windows": [[5.5, 14.6]]}
+{"qid": 15261, "query": "person drinking from a glass in the pantry", "duration": 30.1875, "vid": "6VUIO", "relevant_windows": [[5.5, 14.6]]}
+{"qid": 15262, "query": "the person takes a glass of water", "duration": 30.1875, "vid": "6VUIO", "relevant_windows": [[5.1, 11.9]]}
+{"qid": 15263, "query": "person close the second door", "duration": 28.4375, "vid": "AOQ7C", "relevant_windows": [[0.0, 6.0]]}
+{"qid": 15264, "query": "person runs down the hallway", "duration": 28.4375, "vid": "AOQ7C", "relevant_windows": [[7.5, 17.4]]}
+{"qid": 15265, "query": "person run through to a second door", "duration": 28.4375, "vid": "AOQ7C", "relevant_windows": [[7.5, 17.4]]}
+{"qid": 15266, "query": "a person closed the door", "duration": 28.4375, "vid": "AOQ7C", "relevant_windows": [[0.0, 6.0]]}
+{"qid": 15267, "query": "person closes the door", "duration": 28.4375, "vid": "AOQ7C", "relevant_windows": [[0.0, 6.0]]}
+{"qid": 15268, "query": "person closes a door", "duration": 28.4375, "vid": "AOQ7C", "relevant_windows": [[0.0, 6.0]]}
