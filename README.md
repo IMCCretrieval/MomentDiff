@@ -5,11 +5,6 @@ Pandeng Li<sup>1</sup>, Chen-Wei Xie<sup>2</sup>, Hongtao Xie<sup>1</sup>, Limin
 
 <sup>1</sup> University of Science and Technology of China, <sup>2</sup> DAMO Academy, Alibaba Group
 
-	
-
-
-[[Arxiv](https://arxiv.org/abs/2307.02869)]
-
 ----------
 
 ## Prerequisites
