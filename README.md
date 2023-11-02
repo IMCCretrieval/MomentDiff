@@ -3,7 +3,7 @@ by
 Pandeng Li<sup>1</sup>, Chen-Wei Xie<sup>2</sup>, Hongtao Xie<sup>1</sup>, Liming Zhao<sup>2</sup>, Lei Zhang<sup>1</sup>, Yun Zheng<sup>2</sup>
 , Deli Zhao<sup>2</sup>, Yongdong Zhang<sup>1</sup>
 
-<sup>1</sup> University of Science and Technology of China, <sup>2</sup> DAMO Academy, Alibaba Group
+<sup>1</sup> University of Science and Technology of China, <sup>2</sup> Alibaba Group
 
 ----------
 
